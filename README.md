@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A study of cognates between Gyalrong and Old Chinese
 
 Cite the source dataset as
@@ -28,3 +29,21 @@ Available online at https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?it
 - **Tokens:** 2,710
 - **Segments:** 127 (17 BIPA errors, 17 CTLS sound class errors, 110 CLTS modified)
 - **Inventory size (avg):** 40.29
+=======
+# Zhangetal2019
+Old Chinese Gyalrong cognates
+
+Old Chinese notations:
+
+\[a\]: Primarily reconstructed as *a, but there are alternatives.
+
+\(a\): Maybe there is an *a, maybe not. 
+
+a-: prefix *a-
+
+-a: affix *-a
+
+<a>: infix *a
+
+C. : a preinitial without a specific function
+>>>>>>> 5470697bf12e012a6f75d20fe95b053da4d6153e
