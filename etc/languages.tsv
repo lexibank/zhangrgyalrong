@@ -1,8 +1,8 @@
-Name_in_Source	Chinese_Name	Glottocode	iso 639-3	Latitude	Longitude
-Middle Chinese	中古汉语	midd1344	ltc	34.27	108.90
-Old Chinese	上古汉语	oldc1244	och	36.12	114.32
-Cogtse (Situ)	卓克基话	maer1238		31.67	102.29
-Brag-bar (Situ)	白湾话	maer1238		31.82	101.91
-Japhug	茶堡话	dgon1234		32.21	101.96
-Zbu	日部话	zbu1234		32.22	101.61
-Tibetan	藏语	clas1254	xct	31.12	88.36
+ID	Name_in_Source	Chinese_Name	Glottocode	Latitude	Longitude
+MiddleChinese	Middle Chinese	中古汉语	midd1344	34.27	108.90
+OldChinese	Old Chinese	上古汉语	oldc1244	36.12	114.32
+CogtseSitu	Cogtse (Situ)	卓克基话	maer1238	31.67	102.29
+BragbarSitu	Brag-bar (Situ)	白湾话	maer1238	31.82	101.91
+Japhug	Japhug	茶堡话	dgon1234	32.21	101.96
+Zbu	Zbu	日部话	zbu1234	32.22	101.61
+Tibetan	Tibetan	藏语	clas1254	31.12	88.36
