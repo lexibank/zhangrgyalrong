@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # A study of cognates between Gyalrong and Old Chinese
 
 Cite the source dataset as
@@ -46,4 +45,3 @@ a-: prefix *a-
 <a>: infix *a
 
 C. : a preinitial without a specific function
->>>>>>> 5470697bf12e012a6f75d20fe95b053da4d6153e
