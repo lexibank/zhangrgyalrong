@@ -6,7 +6,7 @@ from clldutils.misc import slug
 from pylexibank import Concept, Language
 from pylexibank.dataset import Dataset as MyDataset
 from pylexibank.forms import FormSpec
-from pylexibank import progressbar
+from pylexibank.util import progressbar
 
 @attr.s
 class CustomConcept(Concept):
@@ -51,10 +51,10 @@ class Dataset(MyDataset):
             args.writer.add_concept(
                     ID=idx,
                     Name=concept['ENGLISH'],
-                    Chinese_Gloss=concept['CHINESE'],
+                    Chinese_Gloss=concept['CHINESE'].strip(),
                     Gloss_in_Source=concept['GLOSS_IN_SOURCE']
                     )
-            concepts[concept['CHINESE']] = idx
+            concepts[concept['CHINESE'].strip()] = idx
 
         for cogid_, entry in progressbar(
                 enumerate(data), desc="cldfify the data", total=len(data)
