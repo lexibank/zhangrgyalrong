@@ -1137,8 +1137,8 @@
         },
         "MiddleChinese": {
             "bipa_errors": [
-                "X",
-                "H"
+                "H",
+                "X"
             ],
             "general_errors": 54,
             "replacements": {
@@ -1468,8 +1468,8 @@
                 ]
             },
             "sclass_errors": [
-                "X",
-                "H"
+                "H",
+                "X"
             ],
             "segments": {
                 "H": 15,
@@ -1521,8 +1521,8 @@
         "OldChinese": {
             "bipa_errors": [
                 "C",
-                "\u02e4k",
-                "N"
+                "N",
+                "\u02e4k"
             ],
             "general_errors": 16,
             "replacements": {
@@ -1853,8 +1853,8 @@
             },
             "sclass_errors": [
                 "C",
-                "\u02e4k",
-                "N"
+                "N",
+                "\u02e4k"
             ],
             "segments": {
                 "C": 11,
@@ -3128,17 +3128,17 @@
         ],
         "bad_words_count": 71,
         "bipa_errors": [
-            "'",
-            "N",
-            "H",
             "C",
+            "N",
             "\u02e4k",
+            "H",
+            "'",
             "X"
         ],
         "general_errors": 71,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 39.42857142857143,
+        "inventory_size": 39.42857142857142,
         "replacements": {
             "+": [
                 "+"
@@ -3466,11 +3466,11 @@
             ]
         },
         "sclass_errors": [
-            "'",
-            "N",
-            "H",
             "C",
+            "N",
             "\u02e4k",
+            "H",
+            "'",
             "X"
         ],
         "segments": {
