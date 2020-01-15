@@ -1,3 +1,0 @@
-[lexibank.dataset]
-zhanggyalrong = lexibank_zhanggyalrong:Dataset
-
