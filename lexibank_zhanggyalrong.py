@@ -30,7 +30,7 @@ class Dataset(MyDataset):
         strip_inside_brackets=False,
         brackets={'(': ')', '[': ']'},
         replacements=[
-            ('-', '+'), 
+            ('-', '+'),
             ('*', ''),
             ('[', ''),
             (']', ''),
