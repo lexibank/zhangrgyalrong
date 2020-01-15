@@ -6,14 +6,14 @@
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
 | + | 229 | ✓ | ✓ |
-| k | 224 | ✓ | ✓ |
+| k | 223 | ✓ | ✓ |
 | a | 206 | ✓ | ✓ |
 | r | 191 | ✓ | ✓ |
 | t | 166 | ✓ | ✓ |
 | m | 131 | ✓ | ✓ |
 | ə | 124 | ✓ | ✓ |
 | i | 102 | ✓ | ✓ |
-| j | 99 | ✓ | ✓ |
+| j | 98 | ✓ | ✓ |
 | s | 88 | ✓ | ✓ |
 | p | 84 | ✓ | ✓ |
 | ŋ | 82 | ✓ | ✓ |
@@ -46,10 +46,10 @@
 | ɲ | 14 | ✓ | ✓ |
 | ʑ | 13 | ✓ | ✓ |
 | C | 11 | ? | ? |
-| q | 11 | ✓ | ✓ |
 | ê | 10 | ✓ | ✓ |
 | ē | 10 | ✓ | ✓ |
 | ɐ | 10 | ✓ | ✓ |
+| q | 9 | ✓ | ✓ |
 | tɕ | 9 | ✓ | ✓ |
 | û | 9 | ✓ | ✓ |
 | ɐ̄ | 9 | ✓ | ✓ |
@@ -65,11 +65,11 @@
 | ə̂ | 6 | ✓ | ✓ |
 | ə̄ | 6 | ✓ | ✓ |
 | ɟ | 6 | ✓ | ✓ |
+| c | 5 | ✓ | ✓ |
+| qʰ | 5 | ✓ | ✓ |
 | tsʰ | 5 | ✓ | ✓ |
 | ŋˤ | 5 | ✓ | ✓ |
-| <<.>> | 4 | ? | ? |
 | N | 4 | ? | ? |
-| c | 4 | ✓ | ✓ |
 | mˤ | 4 | ✓ | ✓ |
 | x | 4 | ✓ | ✓ |
 | y | 4 | ✓ | ✓ |
@@ -77,14 +77,12 @@
 | ʈʂ | 4 | ✓ | ✓ |
 | kˤ | 3 | ✓ | ✓ |
 | m̥ˤ | 3 | ✓ | ✓ |
-| qʰ | 3 | ✓ | ✓ |
 | tsˤ | 3 | ✓ | ✓ |
 | v | 3 | ✓ | ✓ |
 | ɛ | 3 | ✓ | ✓ |
 | ɢˤ | 3 | ✓ | ✓ |
 | ʂ | 3 | ✓ | ✓ |
 | β | 3 | ✓ | ✓ |
-| <<ʰ>> | 2 | ? | ? |
 | gˤ | 2 | ✓ | ✓ |
 | l̥ | 2 | ✓ | ✓ |
 | l̥ˤ | 2 | ✓ | ✓ |
@@ -122,7 +120,7 @@
 | ʈ | 1 | ✓ | ✓ |
 | ˤk | 1 | ? | ? |
 
-(116 rows)
+(114 rows)
 
 
 
@@ -138,10 +136,7 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:---------------------------------------|:--------------|:-----------------------|:------------|:--------------------------------------|
-| BragbarSitu-2_todescend-1 | BragbarSitu | 2_todescend | kə+.griɛ̂ | k ə + <s> <<.>> </s> g r i ɛ̂ |
-| Japhug-18_after-1 | Japhug | 18_after | ma+qʰu | m a + q <s> <<ʰ>> </s> u |
-| Japhug-49_shell-1 | Japhug | 49_shell | ɯ+rqʰu | ɯ + r q <s> <<ʰ>> </s> u |
+|:---------------------------------------|:--------------|:-----------------------|:---------|:-----------------------|
 | MiddleChinese-106_command-1 | MiddleChinese | 106_command | ɣawH | ɣ a w <s> H </s> |
 | MiddleChinese-108_excrement-1 | MiddleChinese | 108_excrement | ɕijX | ɕ i j <s> X </s> |
 | MiddleChinese-109_milletorricegrains-1 | MiddleChinese | 109_milletorricegrains | mejX | m e j <s> X </s> |
@@ -212,10 +207,8 @@
 | OldChinese-75_strike-1 | OldChinese | 75_strike | Ntˤroŋs | <s> N </s> tˤ r o ŋ s |
 | OldChinese-78_sufferdefeat-2 | OldChinese | 78_sufferdefeat | Npˤrats | <s> N </s> pˤ r a ts |
 | OldChinese-88_face-1 | OldChinese | 88_face | Cŋˤar | <s> C </s> ŋˤ a r |
-| Tibetan-37_armpit-1 | Tibetan | 37_armpit | bzhag.'og | b ʑ a g <s> <<.>> </s> o g |
-| Tibetan-62_sheep-1 | Tibetan | 62_sheep | g.yang+dkar | g <s> <<.>> </s> j a ŋ + d k a r |
-| Tibetan-63_toitch-1 | Tibetan | 63_toitch | g.ya'+ba | g <s> <<.>> </s> j a <s> ' </s> + b a |
+| Tibetan-63_toitch-1 | Tibetan | 63_toitch | g.ya'+ba | g j a <s> ' </s> + b a |
 
-(76 rows)
+(71 rows)
 
 

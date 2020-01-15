@@ -1,10 +1,8 @@
 {
     "by_language": {
         "BragbarSitu": {
-            "bipa_errors": [
-                "<<.>>"
-            ],
-            "general_errors": 1,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -331,12 +329,9 @@
                     "\u03c7"
                 ]
             },
-            "sclass_errors": [
-                "<<.>>"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 83,
-                "<<.>>": 1,
                 "a": 42,
                 "b": 7,
                 "c": 2,
@@ -764,10 +759,8 @@
             }
         },
         "Japhug": {
-            "bipa_errors": [
-                "<<\u02b0>>"
-            ],
-            "general_errors": 2,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -1094,12 +1087,9 @@
                     "\u03c7"
                 ]
             },
-            "sclass_errors": [
-                "<<\u02b0>>"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 55,
-                "<<\u02b0>>": 2,
                 "a": 44,
                 "b": 8,
                 "c": 1,
@@ -1117,8 +1107,8 @@
                 "n": 18,
                 "o": 17,
                 "p": 16,
-                "q": 10,
-                "q\u02b0": 1,
+                "q": 8,
+                "q\u02b0": 3,
                 "r": 40,
                 "s": 14,
                 "t": 52,
@@ -1147,8 +1137,8 @@
         },
         "MiddleChinese": {
             "bipa_errors": [
-                "X",
-                "H"
+                "H",
+                "X"
             ],
             "general_errors": 54,
             "replacements": {
@@ -1478,8 +1468,8 @@
                 ]
             },
             "sclass_errors": [
-                "X",
-                "H"
+                "H",
+                "X"
             ],
             "segments": {
                 "H": 15,
@@ -1932,10 +1922,9 @@
         },
         "Tibetan": {
             "bipa_errors": [
-                "<<.>>",
                 "'"
             ],
-            "general_errors": 4,
+            "general_errors": 1,
             "replacements": {
                 "+": [
                     "+"
@@ -2263,22 +2252,20 @@
                 ]
             },
             "sclass_errors": [
-                "<<.>>",
                 "'"
             ],
             "segments": {
                 "'": 1,
                 "+": 20,
-                "<<.>>": 3,
                 "a": 38,
                 "b": 13,
-                "c": 1,
+                "c": 2,
                 "d": 11,
                 "e": 4,
                 "g": 33,
                 "i": 15,
-                "j": 7,
-                "k": 5,
+                "j": 6,
+                "k": 4,
                 "k\u02b0": 5,
                 "l": 2,
                 "m": 15,
@@ -2641,27 +2628,6 @@
     },
     "stats": {
         "bad_words": [
-            [
-                "BragbarSitu-2_todescend-1",
-                "BragbarSitu",
-                "2_todescend",
-                "k\u0259+.gri\u025b\u0302",
-                "k \u0259 + <s> <<.>> </s> g r i \u025b\u0302"
-            ],
-            [
-                "Japhug-18_after-1",
-                "Japhug",
-                "18_after",
-                "ma+q\u02b0u",
-                "m a + q <s> <<\u02b0>> </s> u"
-            ],
-            [
-                "Japhug-49_shell-1",
-                "Japhug",
-                "49_shell",
-                "\u026f+rq\u02b0u",
-                "\u026f + r q <s> <<\u02b0>> </s> u"
-            ],
             [
                 "MiddleChinese-106_command-1",
                 "MiddleChinese",
@@ -3153,42 +3119,26 @@
                 "<s> C </s> \u014b\u02e4 a r"
             ],
             [
-                "Tibetan-37_armpit-1",
-                "Tibetan",
-                "37_armpit",
-                "bzhag.'og",
-                "b \u0291 a g <s> <<.>> </s> o g"
-            ],
-            [
-                "Tibetan-62_sheep-1",
-                "Tibetan",
-                "62_sheep",
-                "g.yang+dkar",
-                "g <s> <<.>> </s> j a \u014b + d k a r"
-            ],
-            [
                 "Tibetan-63_toitch-1",
                 "Tibetan",
                 "63_toitch",
                 "g.ya'+ba",
-                "g <s> <<.>> </s> j a <s> ' </s> + b a"
+                "g j a <s> ' </s> + b a"
             ]
         ],
-        "bad_words_count": 76,
+        "bad_words_count": 71,
         "bipa_errors": [
-            "<<\u02b0>>",
+            "H",
             "'",
-            "\u02e4k",
-            "<<.>>",
             "X",
             "N",
-            "H",
+            "\u02e4k",
             "C"
         ],
-        "general_errors": 77,
+        "general_errors": 71,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 39.85714285714286,
+        "inventory_size": 39.42857142857143,
         "replacements": {
             "+": [
                 "+"
@@ -3516,20 +3466,16 @@
             ]
         },
         "sclass_errors": [
-            "<<\u02b0>>",
+            "H",
             "'",
-            "\u02e4k",
-            "<<.>>",
             "X",
             "N",
-            "H",
+            "\u02e4k",
             "C"
         ],
         "segments": {
             "'": 1,
             "+": 229,
-            "<<.>>": 4,
-            "<<\u02b0>>": 2,
             "C": 11,
             "H": 15,
             "N": 4,
@@ -3537,7 +3483,7 @@
             "a": 206,
             "b": 39,
             "b\u02e4": 1,
-            "c": 4,
+            "c": 5,
             "d": 28,
             "d\u0291": 1,
             "d\u02e4": 1,
@@ -3548,8 +3494,8 @@
             "g\u02e4": 2,
             "h": 1,
             "i": 102,
-            "j": 99,
-            "k": 224,
+            "j": 98,
+            "k": 223,
             "k\u02b0": 30,
             "k\u02b0\u02e4": 1,
             "k\u02b7": 1,
@@ -3571,8 +3517,8 @@
             "p\u02b0": 8,
             "p\u02b0\u02e4": 1,
             "p\u02e4": 6,
-            "q": 11,
-            "q\u02b0": 3,
+            "q": 9,
+            "q\u02b0": 5,
             "q\u02b7\u02b0\u02e4": 1,
             "q\u02e4": 2,
             "r": 191,
