@@ -43,8 +43,18 @@ class Dataset(MyDataset):
         args.writer.add_sources()
         data = self.raw_dir.read_csv("zhang2019-oc-rgyal.tsv", dicts=True,
                 delimiter="\t")
-        languages = args.writer.add_languages(
-                lookup_factory='Name')
+        languages = {}
+        for lan in self.languages:
+            args.writer.add_language(
+                ID = lan['ID'],
+                Name=lan['Name'],
+                Chinese_Name=lan['Chinese_Name'],
+                Glottocode=lan['Glottocode'],
+                Latitude=lan['Latitude'],
+                Longitude=lan['Longitude']
+            )
+            languages[lan['Name']] = {'Source' :lan['Source'], 'ID':lan['ID']}
+
         concepts = {}
         for concept in self.concepts:
             idx = concept['ID'].split('-')[-1]+'_'+slug(concept['ENGLISH'])
@@ -60,13 +70,13 @@ class Dataset(MyDataset):
                 enumerate(data), desc="cldfify the data", total=len(data)
                 ):
             cogid = cogid_ + 1
-            for language in languages:
+            for language, value in languages.items():
                 if entry[language].strip():
                     for row in args.writer.add_forms_from_value(
-                        Language_ID=languages[language],
+                        Language_ID=value['ID'],
                         Parameter_ID=concepts[entry["Chinese_character"]],
                         Value=entry[language],
-                        Source=["Zhang2019"],
+                        Source=[value['Source']]
                         ):
                         args.writer.add_cognate(
                                 lexeme=row,
