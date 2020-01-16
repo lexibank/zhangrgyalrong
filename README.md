@@ -20,7 +20,7 @@ Available online at https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?it
 - **Varieties:** 7
 - **Concepts:** 120
 - **Lexemes:** 603
-- **Sources:** 1
+- **Sources:** 2
 - **Synonymy:** 1.01
 - **Cognacy:** 603 cognates in 122 cognate sets (0 singletons)
 - **Cognate Diversity:** 0.00
