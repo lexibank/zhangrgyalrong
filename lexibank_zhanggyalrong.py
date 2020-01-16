@@ -55,7 +55,7 @@ class Dataset(MyDataset):
             )
             languages[lan['Name']] = {'Source' :lan['Source'], 'ID':lan['ID']}
 
-        concepts = {}git
+        concepts = {}
         for concept in self.concepts:
             idx = concept['ID'].split('-')[-1]+'_'+slug(concept['ENGLISH'])
             args.writer.add_concept(
