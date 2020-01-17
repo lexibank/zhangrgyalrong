@@ -1,0 +1,400 @@
+ID	NUMBER	ENGLISH	GLOSS_IN_SOURCE	CHINESE	NOTE	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
+Zhang-2019-122-1	1	axe	axe	斧		677	AXE	2
+Zhang-2019-122-2	2	to descend	to descend	下		2014	GO DOWN (DESCEND)	1
+Zhang-2019-122-3	3	to revive	to revive	蘇			???	
+#<<<								
+Zhang-2019-122-4	4	I, my	I, my	吾		1209	I	4
+Zhang-2019-122-4	4	I, my	I, my	吾		2090	MY	4
+#>>>								
+Zhang-2019-122-5	5	to chew	to chew	咀	OC not in BS	321	CHEW	1
+Zhang-2019-122-6	6	five	five	五		493	FIVE	2
+Zhang-2019-122-7	7	night	night	夜		1233	NIGHT	2
+#<<<								
+Zhang-2019-122-8	8	child	child	兒	In Cogtse and Brag-bar, the cognate is a lexical suffix.	2099	CHILD	2
+Zhang-2019-122-8	8	child	child	兒	In Cogtse and Brag-bar, the cognate is a lexical suffix.	1304	CHILD (YOUNG HUMAN)	2
+Zhang-2019-122-8	8	child	child	兒	In Cogtse and Brag-bar, the cognate is a lexical suffix.	1801	CHILD (DESCENDANT)	2
+#>>>								
+Zhang-2019-122-9	9	thighbone	thighbone	髀	In Gyalrong, the word means 'pig'		???	
+#<<<								
+Zhang-2019-122-11	11	child	child	子	In Brag-bar and Japhug, the cognates mean 'father's sister's child.' In tibetan, it means 'grandchild, nephew'.	2099	CHILD	2
+Zhang-2019-122-11	11	child	child	子	In Brag-bar and Japhug, the cognates mean 'father's sister's child.' In tibetan, it means 'grandchild, nephew'.	1304	CHILD (YOUNG HUMAN)	2
+Zhang-2019-122-11	11	child	child	子	In Brag-bar and Japhug, the cognates mean 'father's sister's child.' In tibetan, it means 'grandchild, nephew'.	1801	CHILD (DESCENDANT)	2
+#>>>								
+Zhang-2019-122-12	12	fur garment	fur garment	裘	Cogtse/Brag-bar: garment, Japhug: to wear, Tibetan: clothes		???	
+Zhang-2019-122-13	13	ear	ear	耳		1247	EAR	2
+#<<<								
+Zhang-2019-122-14	14	ox	ox	牛	In Gyalrong, the cognate means 'cow'.	1169	OX	2
+Zhang-2019-122-14	14	ox	ox	牛	In Gyalrong, the cognate means 'cow'.	1153	CATTLE	2
+#>>>								
+#<<<								
+Zhang-2019-122-15	15	to sit	to sit	坐		1649	SIT DOWN	1
+Zhang-2019-122-15	15	to sit	to sit	坐		1416	SIT	1
+#>>>								
+#<<<								
+Zhang-2019-122-16	16	milk, nipple	milk, nipple	乳	The TB cognates mean 'udder'	93	DRAW MILK	4
+Zhang-2019-122-16	16	milk, nipple	milk, nipple	乳	The TB cognates mean 'udder'	635	MILK	4
+Zhang-2019-122-16	16	milk, nipple	milk, nipple	乳	The TB cognates mean 'udder'	796	NIPPLE	4
+Zhang-2019-122-16	16	milk, nipple	milk, nipple	乳	The TB cognates mean 'udder'	1836	VAGINA	4
+Zhang-2019-122-16	16	milk, nipple	milk, nipple	乳	The TB cognates mean 'udder'	2129	BREAST OR MILK	4
+#>>>								
+Zhang-2019-122-17	17	sovereign, queen	sovereign, queen	后	The TB cognates mean 'head'	1306	QUEEN	4
+Zhang-2019-122-18	18	after	after	後		1685	AFTER	2
+Zhang-2019-122-19	19	internal organs	internal organs	腑	The Gyalrong cognates mean 'intestine'.		???	
+#<<<								
+Zhang-2019-122-20	20	body, person	body, person	軀		516	PERSON (CLASSIFIER)	4
+Zhang-2019-122-20	20	body, person	body, person	軀		683	PERSON	4
+Zhang-2019-122-20	20	body, person	body, person	軀		1123	PREGNANT	4
+Zhang-2019-122-20	20	body, person	body, person	軀		1480	BODY	4
+Zhang-2019-122-20	20	body, person	body, person	軀		2645	MAN OR PERSON	4
+Zhang-2019-122-20	20	body, person	body, person	軀		1211	HE	4
+Zhang-2019-122-20	20	body, person	body, person	軀		856	HIRE	4
+Zhang-2019-122-20	20	body, person	body, person	軀		2661	PEOPLE OR PERSON	4
+#>>>								
+Zhang-2019-122-21	21	vomit	vomit	嘔		1278	VOMIT	2
+Zhang-2019-122-22	22	to take care of, protect	to take care of, protect	保		2900	PROTECT	3
+Zhang-2019-122-23	23	float	float	浮	The Gyalrong cognates mean 'boat'.	1574	FLOAT	2
+Zhang-2019-122-24	24	hat	hat	帽	The Gyalrong cognates mean 'mushroom'.	771	HAT	2
+Zhang-2019-122-25	25	brain	brain	腦		1583	BRAIN	2
+Zhang-2019-122-26	26	elbow	elbow	肘		981	ELBOW	2
+Zhang-2019-122-27	27	claw	claw	爪	The Gyalrong cognates mean 'nail'.	72	CLAW	2
+Zhang-2019-122-28	28	nine	nine	九		1483	NINE	2
+Zhang-2019-122-29	29	mother's brother	mother's brother	舅	The Tibetan cognate means 'father's brother'.	1984	MOTHER'S BROTHER	2
+Zhang-2019-122-30	30	father	father	父		1217	FATHER	2
+Zhang-2019-122-31	31	allium	allium	韭	Gyalrong cognates: onion. Tibetan cognate: wild onion.		???	
+Zhang-2019-122-32	32	hundred	hundred	百		1634	HUNDRED	2
+Zhang-2019-122-33	33	shoulder blade	shoulder blade	膊	TB cognates: shoulder	172	SHOULDERBLADE	2
+#<<<								
+Zhang-2019-122-34	34	thin	thin	薄		1400	THIN (SLIM)	2
+Zhang-2019-122-34	34	thin	thin	薄		2305	THIN (OF HAIR AND THREAD)	2
+Zhang-2019-122-34	34	thin	thin	薄		2306	THIN (OF LEAF AND CLOTH)	2
+Zhang-2019-122-34	34	thin	thin	薄		2157	FINE OR THIN	2
+Zhang-2019-122-34	34	thin	thin	薄		2308	THIN	2
+Zhang-2019-122-34	34	thin	thin	薄		2219	LEAN (MEAT)	2
+Zhang-2019-122-34	34	thin	thin	薄		2249	THIN (OF SHAPE OF OBJECT)	2
+#>>>								
+Zhang-2019-122-35	35	there is no X such that X...	there is no X such that X...	莫	Gyalrong cognates: not be		???	
+Zhang-2019-122-36	36	armpit	armpit	胳	Gyalrong cognates: arm	1886	ARMPIT	2
+Zhang-2019-122-37	37	armpit	armpit	腋		1886	ARMPIT	2
+Zhang-2019-122-38	38	single	single	隻	TB cognates: one		???	
+#<<<								
+Zhang-2019-122-39	39	to drop, drop	to drop, drop	滴	Cogtse: drop (classifier); the Old Chinese reconstruction is not from B-S.	2866	DROP (SOMETHING)	3
+Zhang-2019-122-39	39	to drop, drop	to drop, drop	滴	Cogtse: drop (classifier); the Old Chinese reconstruction is not from B-S.	750	DROP	3
+Zhang-2019-122-39	39	to drop, drop	to drop, drop	滴	Cogtse: drop (classifier); the Old Chinese reconstruction is not from B-S.	808	DRIP (FALL IN GLOBULES)	3
+Zhang-2019-122-39	39	to drop, drop	to drop, drop	滴	Cogtse: drop (classifier); the Old Chinese reconstruction is not from B-S.	1280	FALL	3
+#>>>								
+#<<<								
+Zhang-2019-122-40	40	hide	hide	革	Gyalrong cognates: peel off	3326	LEATHER OR HIDE	2
+Zhang-2019-122-40	40	hide	hide	革	Gyalrong cognates: peel off	2486	HIDE	2
+Zhang-2019-122-40	40	hide	hide	革	Gyalrong cognates: peel off	2485	HIDE (ONESELF)	2
+Zhang-2019-122-40	40	hide	hide	革	Gyalrong cognates: peel off	602	HIDE (CONCEAL)	2
+#>>>								
+Zhang-2019-122-41	41	evil	evil	慝	TB cognates: be black	45	EVIL	2
+Zhang-2019-122-42	42	to weave	to weave	織		133	WEAVE	1
+Zhang-2019-122-43	43	colour, countenance	colour, countenance	色	Japhug cognate: shame	1613	COLOR	4
+Zhang-2019-122-44	44	joint	joint	節	TB cognates: segment	999	JOINT	2
+#<<<								
+Zhang-2019-122-45	45	louse	louse	蝨		1392	LOUSE	2
+Zhang-2019-122-45	45	louse	louse	蝨		310	HEAD LOUSE	2
+#>>>								
+#<<<								
+Zhang-2019-122-46	46	to bend	to bend	曲	Japhug cognate: to curve	2004	BEND	1
+Zhang-2019-122-46	46	to bend	to bend	曲	Japhug cognate: to curve	2224	BEND (SOMETHING)	1
+#>>>								
+#<<<								
+Zhang-2019-122-47	47	be bent, curved	be bent, curved	局		297	CROOKED	4
+Zhang-2019-122-47	47	be bent, curved	be bent, curved	局		1698	CURVED	4
+#>>>								
+Zhang-2019-122-48	48	to peck	to peck	啄	Gyalrong cognates: beak	3684	PECK	1
+Zhang-2019-122-49	49	shell	shell	殼	TB cognates: bark	598	SHELL	2
+#<<<								
+Zhang-2019-122-50	50	horn	horn	角		939	HORN (INSTRUMENT)	2
+Zhang-2019-122-50	50	horn	horn	角		124	THORN	2
+Zhang-2019-122-50	50	horn	horn	角		1393	HORN (ANATOMY)	2
+#>>>								
+Zhang-2019-122-51	51	poison	poison	毒		655	POISON	2
+Zhang-2019-122-52	52	six	six	六		1703	SIX	2
+Zhang-2019-122-53	53	belly	belly	腹	Tibetan cognate: hole	1251	BELLY	2
+Zhang-2019-122-54	54	eye	eye	目		1248	EYE	2
+Zhang-2019-122-55	55	to press	to press	蹙	OC not in BS	1913	PRESS	1
+#<<<								
+Zhang-2019-122-56	56	twist, spin	twist, spin	紡		3199	TWIST (AROUND)	4
+Zhang-2019-122-56	56	twist, spin	twist, spin	紡		3236	TWIST (TOGETHER)	4
+Zhang-2019-122-56	56	twist, spin	twist, spin	紡		430	TWIST	4
+Zhang-2019-122-56	56	twist, spin	twist, spin	紡		121	SPIN	4
+#>>>								
+#<<<								
+Zhang-2019-122-57	57	eldest, great	eldest, great	孟	Tibetan and Cogtse: son-in-law, Japhu: husband	3001	POWERFUL	4
+Zhang-2019-122-57	57	eldest, great	eldest, great	孟	Tibetan and Cogtse: son-in-law, Japhu: husband	1202	BIG	4
+#>>>								
+#<<<								
+Zhang-2019-122-58	58	eldest, great	eldest, great	孟	Gyalrong cognates: be tall	3001	POWERFUL	4
+Zhang-2019-122-58	58	eldest, great	eldest, great	孟	Gyalrong cognates: be tall	1202	BIG	4
+#>>>								
+Zhang-2019-122-59	59	to oppose, disturb	to oppose, disturb	攘	Gyalrong cognates: to chase	2883	DISTURB	3
+Zhang-2019-122-60	60	to think	to think	想		2271	THINK	1
+#<<<								
+Zhang-2019-122-61	61	strong, hard	strong, hard	剛	TB cognates: be hard	2718	STRONG (OF DRINK)	4
+Zhang-2019-122-61	61	strong, hard	strong, hard	剛	TB cognates: be hard	510	STRONG EFFECT	4
+Zhang-2019-122-61	61	strong, hard	strong, hard	剛	TB cognates: be hard	785	STRONG	4
+Zhang-2019-122-61	61	strong, hard	strong, hard	剛	TB cognates: be hard	3188	MIGHTY OR POWERFUL OR STRONG	4
+Zhang-2019-122-61	61	strong, hard	strong, hard	剛	TB cognates: be hard	584	DIFFICULT	4
+Zhang-2019-122-61	61	strong, hard	strong, hard	剛	TB cognates: be hard	772	BELT	4
+Zhang-2019-122-61	61	strong, hard	strong, hard	剛	TB cognates: be hard	1884	HARD	4
+#>>>								
+Zhang-2019-122-62	62	sheep	sheep	羊		1331	SHEEP	2
+#<<<								
+Zhang-2019-122-63	63	to itch	to itch	癢		149	ITCHY	1
+Zhang-2019-122-63	63	to itch	to itch	癢		148	ITCH	1
+#>>>								
+#<<<								
+Zhang-2019-122-64	64	name	name	名		1405	NAME	2
+Zhang-2019-122-64	64	name	name	名		180	CALL BY NAME	2
+#>>>								
+#<<<								
+Zhang-2019-122-65	65	cry (of birds or animals)	cry (of birds or animals)	鳴	Gyalrong cognates: be loud	619	ANIMAL	4
+Zhang-2019-122-65	65	cry (of birds or animals)	cry (of birds or animals)	鳴	Gyalrong cognates: be loud	715	SHOUT	4
+Zhang-2019-122-65	65	cry (of birds or animals)	cry (of birds or animals)	鳴	Gyalrong cognates: be loud	1839	CRY	4
+#>>>								
+Zhang-2019-122-66	66	string, cord	string, cord	繩	Gyalrong cognates: rope	362	STRING	2
+Zhang-2019-122-67	67	ice	ice	冰		617	ICE	2
+#<<<								
+Zhang-2019-122-68	68	dream	dream	夢		2374	DREAM	2
+Zhang-2019-122-68	68	dream	dream	夢		2455	DREAMING OR DREAM	2
+Zhang-2019-122-68	68	dream	dream	夢		1920	DREAM (SOMETHING)	2
+#>>>								
+#<<<								
+Zhang-2019-122-69	69	your	your	乃	Gyalrong cognates: you	732	YOUR (SINGULAR)	2
+Zhang-2019-122-69	69	your	your	乃	Gyalrong cognates: you	2091	YOUR	2
+#>>>								
+Zhang-2019-122-70	70	fly (insect)	fly (insect)	蠅	Japhug: bee, Tibetan: honey	1504	FLY (INSECT)	2
+Zhang-2019-122-71	71	firewood	firewood	薪	Tibetan: tree	10	FIREWOOD	2
+Zhang-2019-122-72	72	be new	be new	新		1231	NEW	4
+#<<<								
+Zhang-2019-122-73	73	body, self	body, self	身	TB cognates: heart	1993	SELF	4
+Zhang-2019-122-73	73	body, self	body, self	身	TB cognates: heart	1480	BODY	4
+#>>>								
+#<<<								
+Zhang-2019-122-74	74	field	field	田	Cogtse: to plant, Brag-bar: farming, Tibetan: farmland	140	PADDY FIELD	2
+Zhang-2019-122-74	74	field	field	田	Cogtse: to plant, Brag-bar: farming, Tibetan: farmland	212	FIELD	2
+#>>>								
+Zhang-2019-122-75	75	strike	strike	撞	Japhug: to hit, Tibetan: to beat	353	STRIKE	2
+Zhang-2019-122-76	76	to kill	to kill	殺		1417	KILL	1
+#<<<								
+Zhang-2019-122-77	77	to defeat	to defeat	敗	Gyalrong cognates: to break	782	DEFEAT	4
+Zhang-2019-122-77	77	to defeat	to defeat	敗	Gyalrong cognates: to break	866	WIN	4
+#>>>								
+Zhang-2019-122-78	78	suffer defeat	suffer defeat	敗	Gyalrong cognates: to break		???	
+Zhang-2019-122-79	79	eight	eight	八		1705	EIGHT	2
+#<<<								
+Zhang-2019-122-80	80	to take off	to take off	脫	Brag-bar: to fall (from hand)	1755	UNDRESS	1
+Zhang-2019-122-80	80	to take off	to take off	脫	Brag-bar: to fall (from hand)	3538	TAKE OFF	1
+#>>>								
+Zhang-2019-122-81	81	to scrape	to scrape	刮	Gyalrong cognates: to scratch	1767	SCRAPE	1
+Zhang-2019-122-82	82	to dig out (earth)	to dig out (earth)	掘	Gyalrong cognates: to bury; Tibetan: to dig	1418	DIG	4
+Zhang-2019-122-83	83	to slip	to slip	躓/疐		1324	SLIP	1
+Zhang-2019-122-84	84	to destroy	to destroy	滅	Gyalrong cognates: to extinguish	681	DESTROY	1
+Zhang-2019-122-85	85	seven	seven	七		1704	SEVEN	2
+#<<<								
+Zhang-2019-122-86	86	to lose	to lose	失	Cogtse: to fall (from hand), Japhug: to fall	3072	MISPLACE	1
+Zhang-2019-122-86	86	to lose	to lose	失	Cogtse: to fall (from hand), Japhug: to fall	1660	LOSE	1
+#>>>								
+Zhang-2019-122-87	87	stiff	stiff	痹			???	
+Zhang-2019-122-88	88	face	face	顏		1560	FACE	2
+Zhang-2019-122-89	89	fresh	fresh	鮮		243	FRESH	2
+Zhang-2019-122-90	90	sour	sour	酸		1906	SOUR	2
+#<<<								
+Zhang-2019-122-91	91	late	late	晚	Gyalrong cognates: night	477	LATE	2
+Zhang-2019-122-91	91	late	late	晚	Gyalrong cognates: night	425	BE LATE	2
+#>>>								
+Zhang-2019-122-92	92	earthworm	earthworm	蚓	Tibetan: worm	2350	EARTHWORM	2
+#<<<								
+Zhang-2019-122-93	93	dusk, dark	dusk, dark	昏	Japhug: afternoon	2633	BLACK OR DARK	4
+Zhang-2019-122-93	93	dusk, dark	dusk, dark	昏	Japhug: afternoon	706	DARK	4
+Zhang-2019-122-93	93	dusk, dark	dusk, dark	昏	Japhug: afternoon	2297	DUSK	4
+Zhang-2019-122-93	93	dusk, dark	dusk, dark	昏	Japhug: afternoon	1629	EVENING	4
+#>>>								
+Zhang-2019-122-94	94	to smoke	to smoke	熏		1689	SMOKE (INHALE)	1
+Zhang-2019-122-95	95	to stand	to stand	立		1442	STAND	1
+Zhang-2019-122-96	96	to scoop water	to scoop water	汲	OC not in BS; Gyalrong cognates: to carry water on back		???	
+Zhang-2019-122-97	97	jaw, chin	jaw, chin	頷	Japhug: pliers	1510	CHIN	2
+Zhang-2019-122-98	98	pillow	pillow	枕		1044	PILLOW	2
+Zhang-2019-122-99	99	three	three	三		492	THREE	2
+Zhang-2019-122-100	100	plant root	plant root	參			???	
+Zhang-2019-122-101	101	needle	needle	針		1382	NEEDLE (FOR SEWING)	2
+#<<<								
+Zhang-2019-122-102	102	be cloudy, dark	be cloudy, dark	陰	Gyalrong cognates: dark side of the mountain	2341	CLOUDY	4
+Zhang-2019-122-102	102	be cloudy, dark	be cloudy, dark	陰	Gyalrong cognates: dark side of the mountain	2633	BLACK OR DARK	4
+Zhang-2019-122-102	102	be cloudy, dark	be cloudy, dark	陰	Gyalrong cognates: dark side of the mountain	706	DARK	4
+#>>>								
+Zhang-2019-122-103	103	bear	bear	熊		1820	BEAR	2
+Zhang-2019-122-104	104	owl	owl	梟	Gyalrong cognates: chicken	735	OWL	2
+#<<<								
+Zhang-2019-122-105	105	to fry, roast	to fry, roast	熬		2162	STIR FRY	3
+Zhang-2019-122-105	105	to fry, roast	to fry, roast	熬		1962	ROAST (SOMETHING)	3
+Zhang-2019-122-105	105	to fry, roast	to fry, roast	熬		2146	ROAST OR FRY	3
+Zhang-2019-122-105	105	to fry, roast	to fry, roast	熬		991	FRY	3
+#>>>								
+Zhang-2019-122-106	106	command	command	号	Gyalrong cognates: to shout	1998	COMMAND	2
+Zhang-2019-122-107	107	brown-and-white bear	brown-and-white bear	羆	Gyalrong cognates: Asiatic brown bear		???	
+#<<<								
+Zhang-2019-122-108	108	excrement	excrement	屎		675	FAECES (EXCREMENT)	2
+Zhang-2019-122-108	108	excrement	excrement	屎		47	EXCRETA	2
+Zhang-2019-122-108	108	excrement	excrement	屎		3435	COW DUNG	2
+#>>>								
+#<<<								
+Zhang-2019-122-109	109	millet or rice grains	millet or rice grains	米	Japhug: cooked rice; Tibetan: millet	3266	FOXTAIL MILLET	4
+Zhang-2019-122-109	109	millet or rice grains	millet or rice grains	米	Japhug: cooked rice; Tibetan: millet	3265	FINGER MILLET	4
+Zhang-2019-122-109	109	millet or rice grains	millet or rice grains	米	Japhug: cooked rice; Tibetan: millet	2628	PLANT STEM	4
+Zhang-2019-122-109	109	millet or rice grains	millet or rice grains	米	Japhug: cooked rice; Tibetan: millet	931	MILLET	4
+#>>>								
+Zhang-2019-122-110	110	arrow	arrow	矢		977	ARROW	2
+Zhang-2019-122-111	111	to die	to die	死		1494	DIE	1
+Zhang-2019-122-112	112	deceased mother	deceased mother	妣	TB cognates: grandmother		???	
+Zhang-2019-122-113	113	to give	to give	畀	Tibetan: to confer	1447	GIVE	1
+Zhang-2019-122-114	114	two	two	二		1498	TWO	2
+Zhang-2019-122-115	115	eyebrow	eyebrow	眉	Gyalrong cognates: hair	1173	EYEBROW	2
+Zhang-2019-122-116	116	tail	tail	尾		1220	TAIL	2
+Zhang-2019-122-117	117	near	near	邇	Japhug: friend	1942	NEAR	2
+Zhang-2019-122-118	118	fire	fire	火		221	FIRE	2
+Zhang-2019-122-119	119	snake brood	snake brood	虺			???	
+#<<<								
+Zhang-2019-122-120	120	pulse, beans	pulse, beans	菽	Wanderwort, Gyalrong cognates: broad bean	3267	PULSE	4
+Zhang-2019-122-120	120	pulse, beans	pulse, beans	菽	Wanderwort, Gyalrong cognates: broad bean	2574	BEAN OR PEA	4
+Zhang-2019-122-120	120	pulse, beans	pulse, beans	菽	Wanderwort, Gyalrong cognates: broad bean	832	BEAN	4
+#>>>								
+Zhang-2019-122-121	121	horse	horse	馬	Wanderwort	615	HORSE	2
+Zhang-2019-122-122	122	rabbit, hare	rabbit, hare	兔	Wanderwort	2345	LEPORID (RABBIT OR HARE)	2
+Zhang-2019-122-123	123	broad bean	broad bean				???	
+#<<<								
+Zhang-2019-122-124	124	pig	pig			1337	PIG	2
+Zhang-2019-122-124	124	pig	pig			2564	PIGLET	2
+#>>>								
+Zhang-2019-122-125	125	garment	garment			1895	CLOTHES	2
+Zhang-2019-122-126	126	segment	segment				???	
+Zhang-2019-122-127	127	wild onion	wild onion				???	
+#<<<								
+Zhang-2019-122-128	128	hair	hair			1040	HAIR	2
+Zhang-2019-122-128	128	hair	hair			2381	FEATHER OR FUR OR HAIR	2
+Zhang-2019-122-128	128	hair	hair			2648	HAIR (HEAD)	2
+#>>>								
+#<<<								
+Zhang-2019-122-129	129	bark (noun)	bark (noun)			2127	BARK OR SKIN	3
+Zhang-2019-122-129	129	bark (noun)	bark (noun)			1204	BARK	3
+#>>>								
+#<<<								
+Zhang-2019-122-130	130	to beat	to beat			1665	BEAT	1
+Zhang-2019-122-130	130	to beat	to beat			2133	STRIKE OR BEAT	1
+#>>>								
+#<<<								
+Zhang-2019-122-131	131	to hit	to hit			1433	HIT	1
+Zhang-2019-122-131	131	to hit	to hit			353	STRIKE	1
+#>>>								
+Zhang-2019-122-132	132	clothes	clothes			1895	CLOTHES	2
+Zhang-2019-122-133	133	worm	worm			1219	WORM	2
+Zhang-2019-122-134	134	shoulder	shoulder			1482	SHOULDER	2
+Zhang-2019-122-135	135	peel off	peel off			275	PEEL	4
+Zhang-2019-122-136	136	to extinguish	to extinguish			127	EXTINGUISH	1
+Zhang-2019-122-137	137	thou	thou			1215	THOU	2
+Zhang-2019-122-138	138	honey	honey			942	HONEY	2
+Zhang-2019-122-139	139	pliers	pliers				???	
+#<<<								
+Zhang-2019-122-140	140	be tall	be tall			711	TALL	4
+Zhang-2019-122-140	140	be tall	be tall			2790	HIGH OR TALL	4
+Zhang-2019-122-140	140	be tall	be tall			3346	TALL (PERSON)	4
+Zhang-2019-122-140	140	be tall	be tall			2143	LONG OR TALL	4
+Zhang-2019-122-140	140	be tall	be tall			1265	HIGH	4
+#>>>								
+Zhang-2019-122-141	141	head	head			1256	HEAD	2
+Zhang-2019-122-142	142	to carry water on back	to carry water on back				???	
+#<<<								
+Zhang-2019-122-143	143	be hard	be hard			1884	HARD	4
+Zhang-2019-122-143	143	be hard	be hard			584	DIFFICULT	4
+Zhang-2019-122-143	143	be hard	be hard			772	BELT	4
+#>>>								
+Zhang-2019-122-144	144	father's brother	father's brother			1985	FATHER'S BROTHER	2
+Zhang-2019-122-145	145	farmland	farmland				???	
+#<<<								
+Zhang-2019-122-146	146	to fall (from hand)	to fall (from hand)			1280	FALL	3
+Zhang-2019-122-146	146	to fall (from hand)	to fall (from hand)			2014	GO DOWN (DESCEND)	3
+Zhang-2019-122-146	146	to fall (from hand)	to fall (from hand)			2234	FALL (OF SNOW AND RAIN)	3
+#>>>								
+Zhang-2019-122-147	147	shame	shame			1776	SHAME	2
+#<<<								
+Zhang-2019-122-148	148	chicken	chicken			2512	CHICK	2
+Zhang-2019-122-148	148	chicken	chicken			1318	CHICKEN	2
+#>>>								
+Zhang-2019-122-149	149	not be	not be				???	
+Zhang-2019-122-150	150	to wear	to wear			976	WEAR	1
+Zhang-2019-122-151	151	to confer	to confer				???	
+Zhang-2019-122-152	152	afternoon	afternoon			1807	AFTERNOON	2
+Zhang-2019-122-153	153	to curve	to curve				???	
+Zhang-2019-122-154	154	udder	udder			154	UDDER	2
+Zhang-2019-122-155	155	to plant	to plant			1486	PLANT (SOMETHING)	1
+Zhang-2019-122-156	156	cooked rice	cooked rice			1191	COOKED RICE	2
+#<<<								
+Zhang-2019-122-157	157	be black	be black			2633	BLACK OR DARK	4
+Zhang-2019-122-157	157	be black	be black			163	BLACK	4
+#>>>								
+#<<<								
+Zhang-2019-122-158	158	nail	nail			1896	FINGERNAIL OR TOENAIL	2
+Zhang-2019-122-158	158	nail	nail			502	NAIL (TOOL)	2
+Zhang-2019-122-158	158	nail	nail			1258	FINGERNAIL	2
+#>>>								
+#<<<								
+Zhang-2019-122-159	159	drop (classifier)	drop (classifier)			2253	DRIP (EMIT LIQUID)	4
+Zhang-2019-122-159	159	drop (classifier)	drop (classifier)			2866	DROP (SOMETHING)	4
+Zhang-2019-122-159	159	drop (classifier)	drop (classifier)			750	DROP	4
+Zhang-2019-122-159	159	drop (classifier)	drop (classifier)			1280	FALL	4
+Zhang-2019-122-159	159	drop (classifier)	drop (classifier)			808	DRIP (FALL IN GLOBULES)	4
+Zhang-2019-122-159	159	drop (classifier)	drop (classifier)			2087	DROP (CLASSIFIER)	4
+#>>>								
+#<<<								
+Zhang-2019-122-160	160	grandchild, nephew	grandchild, nephew			2703	GRANDCHILD (DAUGHTER'S OFFSPRING)	4
+Zhang-2019-122-160	160	grandchild, nephew	grandchild, nephew			1617	GRANDCHILD	4
+Zhang-2019-122-160	160	grandchild, nephew	grandchild, nephew			1063	NEPHEW	4
+Zhang-2019-122-160	160	grandchild, nephew	grandchild, nephew			1056	SON-IN-LAW	4
+#>>>								
+Zhang-2019-122-161	161	rope	rope			1218	ROPE	2
+Zhang-2019-122-162	162	bee	bee			665	BEE	2
+Zhang-2019-122-163	163	beak	beak			73	BEAK	2
+Zhang-2019-122-164	164	heart	heart			1223	HEART	2
+Zhang-2019-122-165	165	friend	friend			1325	FRIEND	2
+Zhang-2019-122-166	166	one	one			1493	ONE	2
+Zhang-2019-122-167	167	hole	hole			1667	HOLE	2
+Zhang-2019-122-168	168	intestine	intestine			1991	INTESTINES	2
+Zhang-2019-122-169	169	instestine	instestine				???	
+#<<<								
+Zhang-2019-122-170	170	to break (vt)	to break (vt)			460	BREAK (OF ROPE)	3
+Zhang-2019-122-170	170	to break (vt)	to break (vt)			3020	BREAK (BREAKING)	3
+Zhang-2019-122-170	170	to break (vt)	to break (vt)			2558	BREAK (CLEAVE)	3
+Zhang-2019-122-170	170	to break (vt)	to break (vt)			681	DESTROY	3
+Zhang-2019-122-170	170	to break (vt)	to break (vt)			680	BREAK (DESTROY OR GET DESTROYED)	3
+#>>>								
+Zhang-2019-122-171	171	be loud	be loud			377	LOUD	4
+Zhang-2019-122-172	172	millet	millet			931	MILLET	2
+Zhang-2019-122-173	173	Asiatic brown bear	Asiatic brown bear				???	
+Zhang-2019-122-174	174	grandmother	grandmother			1496	GRANDMOTHER	2
+#<<<								
+Zhang-2019-122-175	175	cow	cow			1007	COW	2
+Zhang-2019-122-175	175	cow	cow			3044	BOVINE	2
+#>>>								
+Zhang-2019-122-176	176	to chase	to chase			1047	PURSUE	1
+#<<<								
+Zhang-2019-122-177	177	to break (vi)	to break (vi)			460	BREAK (OF ROPE)	3
+Zhang-2019-122-177	177	to break (vi)	to break (vi)			3020	BREAK (BREAKING)	3
+Zhang-2019-122-177	177	to break (vi)	to break (vi)			2558	BREAK (CLEAVE)	3
+Zhang-2019-122-177	177	to break (vi)	to break (vi)			681	DESTROY	3
+Zhang-2019-122-177	177	to break (vi)	to break (vi)			680	BREAK (DESTROY OR GET DESTROYED)	3
+#>>>								
+Zhang-2019-122-178	178	father's sister's child	father's sister's child				???	
+Zhang-2019-122-179	179	farming	farming				???	
+Zhang-2019-122-180	180	mushroom	mushroom			641	MUSHROOM	2
+Zhang-2019-122-181	181	dark side of the mountain	dark side of the mountain				???	
+Zhang-2019-122-182	182	to scratch	to scratch			1436	SCRATCH	1
+Zhang-2019-122-183	183	boat	boat			1844	BOAT	2
+Zhang-2019-122-184	184	tree	tree			906	TREE	2
+Zhang-2019-122-185	185	to fall	to fall			1280	FALL	1
+Zhang-2019-122-186	186	onion	onion			2366	ONION	2
+Zhang-2019-122-187	187	to shout	to shout			715	SHOUT	1
+#	158/186	85%					
+
