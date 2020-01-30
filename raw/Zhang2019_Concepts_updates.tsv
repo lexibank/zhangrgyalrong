@@ -13,13 +13,13 @@ Zhang-2019-122-12	12	fur garment	fur garment	裘	Cogtse/Brag-bar: garment, Japhu
 Zhang-2019-122-13	13	ear	ear	耳	
 Zhang-2019-122-14	14	ox	ox	牛	In Gyalrong, the cognate means 'cow'.
 Zhang-2019-122-15	15	to sit	to sit	坐	
-Zhang-2019-122-16	16	milk, nipple	milk, nipple	乳	The TB cognates mean 'udder'
-Zhang-2019-122-17	17	sovereign, queen	sovereign, queen	后	The TB cognates mean 'head'
+Zhang-2019-122-16	16	milk	milk, nipple	乳	The TB cognates mean 'udder'
+Zhang-2019-122-17	17	queen	sovereign, queen	后	The TB cognates mean 'head'
 Zhang-2019-122-18	18	after	after	後	
 Zhang-2019-122-19	19	internal organs	internal organs	腑	The Gyalrong cognates mean 'intestine'.
-Zhang-2019-122-20	20	body, person	body, person	軀	
+Zhang-2019-122-20	20	body	body, person	軀	
 Zhang-2019-122-21	21	vomit	vomit	嘔	
-Zhang-2019-122-22	22	to take care of, protect	to take care of, protect	保	
+Zhang-2019-122-22	22	protect	to take care of, protect	保	
 Zhang-2019-122-23	23	float	float	浮	The Gyalrong cognates mean 'boat'.
 Zhang-2019-122-24	24	hat	hat	帽	The Gyalrong cognates mean 'mushroom'.
 Zhang-2019-122-25	25	brain	brain	腦	
@@ -36,15 +36,15 @@ Zhang-2019-122-35	35	there is no X such that X...	there is no X such that X...	�
 Zhang-2019-122-36	36	armpit	armpit	胳	Gyalrong cognates: arm
 Zhang-2019-122-37	37	armpit	armpit	腋	
 Zhang-2019-122-38	38	single	single	隻	TB cognates: one
-Zhang-2019-122-39	39	to drop, drop	to drop, drop	滴	Cogtse: drop (classifier); the Old Chinese reconstruction is not from B-S.
+Zhang-2019-122-39	39	to drop (water)	to drop, drop	滴	Cogtse: drop (classifier); the Old Chinese reconstruction is not from B-S.
 Zhang-2019-122-40	40	hide	hide	革	Gyalrong cognates: peel off
 Zhang-2019-122-41	41	evil	evil	慝	TB cognates: be black
 Zhang-2019-122-42	42	to weave	to weave	織	
-Zhang-2019-122-43	43	colour, countenance	colour, countenance	色	Japhug cognate: shame
+Zhang-2019-122-43	43	colour	colour, countenance	色	Japhug cognate: shame
 Zhang-2019-122-44	44	joint	joint	節	TB cognates: segment
 Zhang-2019-122-45	45	louse	louse	蝨	
 Zhang-2019-122-46	46	to bend	to bend	曲	Japhug cognate: to curve
-Zhang-2019-122-47	47	be bent, curved	be bent, curved	局	
+Zhang-2019-122-47	47	curved	be bent, curved	局	
 Zhang-2019-122-48	48	to peck	to peck	啄	Gyalrong cognates: beak
 Zhang-2019-122-49	49	shell	shell	殼	TB cognates: bark
 Zhang-2019-122-50	50	horn	horn	角	
@@ -53,24 +53,24 @@ Zhang-2019-122-52	52	six	six	六
 Zhang-2019-122-53	53	belly	belly	腹	Tibetan cognate: hole
 Zhang-2019-122-54	54	eye	eye	目	
 Zhang-2019-122-55	55	to press	to press	蹙	OC not in BS
-Zhang-2019-122-56	56	twist, spin	twist, spin	紡	
-Zhang-2019-122-57	57	eldest, great	eldest, great	孟	Tibetan and Cogtse: son-in-law, Japhu: husband
-Zhang-2019-122-58	58	eldest, great	eldest, great	孟	Gyalrong cognates: be tall
-Zhang-2019-122-59	59	to oppose, disturb	to oppose, disturb	攘	Gyalrong cognates: to chase
+Zhang-2019-122-56	56	twist	twist, spin	紡	
+Zhang-2019-122-57	57	eldest	eldest, great	孟	Tibetan and Cogtse: son-in-law, Japhu: husband
+Zhang-2019-122-58	58	eldest	eldest, great	孟	Gyalrong cognates: be tall
+Zhang-2019-122-59	59	disturb	to oppose, disturb	攘	Gyalrong cognates: to chase
 Zhang-2019-122-60	60	to think	to think	想	
-Zhang-2019-122-61	61	strong, hard	strong, hard	剛	TB cognates: be hard
+Zhang-2019-122-61	61	hard	strong, hard	剛	TB cognates: be hard
 Zhang-2019-122-62	62	sheep	sheep	羊	
 Zhang-2019-122-63	63	to itch	to itch	癢	
 Zhang-2019-122-64	64	name	name	名	
 Zhang-2019-122-65	65	cry (of birds or animals)	cry (of birds or animals)	鳴	Gyalrong cognates: be loud
-Zhang-2019-122-66	66	string, cord	string, cord	繩	Gyalrong cognates: rope
+Zhang-2019-122-66	66	string	string, cord	繩	Gyalrong cognates: rope
 Zhang-2019-122-67	67	ice	ice	冰	
 Zhang-2019-122-68	68	dream	dream	夢	
 Zhang-2019-122-69	69	your	your	乃	Gyalrong cognates: you
 Zhang-2019-122-70	70	fly (insect)	fly (insect)	蠅	Japhug: bee, Tibetan: honey
 Zhang-2019-122-71	71	firewood	firewood	薪	Tibetan: tree
 Zhang-2019-122-72	72	be new	be new	新	
-Zhang-2019-122-73	73	body, self	body, self	身	TB cognates: heart
+Zhang-2019-122-73	73	body	body, self	身	TB cognates: heart
 Zhang-2019-122-74	74	field	field	田	Cogtse: to plant, Brag-bar: farming, Tibetan: farmland
 Zhang-2019-122-75	75	strike	strike	撞	Japhug: to hit, Tibetan: to beat
 Zhang-2019-122-76	76	to kill	to kill	殺	
@@ -90,19 +90,19 @@ Zhang-2019-122-89	89	fresh	fresh	鮮
 Zhang-2019-122-90	90	sour	sour	酸	
 Zhang-2019-122-91	91	late	late	晚	Gyalrong cognates: night
 Zhang-2019-122-92	92	earthworm	earthworm	蚓	Tibetan: worm
-Zhang-2019-122-93	93	dusk, dark	dusk, dark	昏	Japhug: afternoon
+Zhang-2019-122-93	93	dark	dusk, dark	昏	Japhug: afternoon
 Zhang-2019-122-94	94	to smoke	to smoke	熏	
 Zhang-2019-122-95	95	to stand	to stand	立	
 Zhang-2019-122-96	96	to scoop water	to scoop water	汲	OC not in BS; Gyalrong cognates: to carry water on back
-Zhang-2019-122-97	97	jaw, chin	jaw, chin	頷	Japhug: pliers
+Zhang-2019-122-97	97	jaw	jaw, chin	頷	Japhug: pliers
 Zhang-2019-122-98	98	pillow	pillow	枕	
 Zhang-2019-122-99	99	three	three	三	
 Zhang-2019-122-100	100	plant root	plant root	參	
 Zhang-2019-122-101	101	needle	needle	針	
-Zhang-2019-122-102	102	be cloudy, dark	be cloudy, dark	陰	Gyalrong cognates: dark side of the mountain
+Zhang-2019-122-102	102	be cloudy	be cloudy, dark	陰	Gyalrong cognates: dark side of the mountain
 Zhang-2019-122-103	103	bear	bear	熊	
 Zhang-2019-122-104	104	owl	owl	梟	Gyalrong cognates: chicken
-Zhang-2019-122-105	105	to fry, roast	to fry, roast	熬	
+Zhang-2019-122-105	105	to fry	to fry, roast	熬	
 Zhang-2019-122-106	106	command	command	号	Gyalrong cognates: to shout
 Zhang-2019-122-107	107	brown-and-white bear	brown-and-white bear	羆	Gyalrong cognates: Asiatic brown bear
 Zhang-2019-122-108	108	excrement	excrement	屎	
@@ -117,7 +117,7 @@ Zhang-2019-122-116	116	tail	tail	尾
 Zhang-2019-122-117	117	near	near	邇	Japhug: friend
 Zhang-2019-122-118	118	fire	fire	火	
 Zhang-2019-122-119	119	snake brood	snake brood	虺	
-Zhang-2019-122-120	120	pulse, beans	pulse, beans	菽	Wanderwort, Gyalrong cognates: broad bean
+Zhang-2019-122-120	120	beans	pulse, beans	菽	Wanderwort, Gyalrong cognates: broad bean
 Zhang-2019-122-121	121	horse	horse	馬	Wanderwort
 Zhang-2019-122-122	122	rabbit, hare	rabbit, hare	兔	Wanderwort
 Zhang-2019-122-123	123	broad bean	broad bean		
@@ -157,7 +157,7 @@ Zhang-2019-122-156	156	cooked rice	cooked rice
 Zhang-2019-122-157	157	be black	be black		
 Zhang-2019-122-158	158	nail	nail		
 Zhang-2019-122-159	159	drop (classifier)	drop (classifier)		
-Zhang-2019-122-160	160	grandchild, nephew	grandchild, nephew		
+Zhang-2019-122-160	160	nephew	grandchild, nephew		
 Zhang-2019-122-161	161	rope	rope		
 Zhang-2019-122-162	162	bee	bee		
 Zhang-2019-122-163	163	beak	beak		
