@@ -1137,8 +1137,8 @@
         },
         "MiddleChinese": {
             "bipa_errors": [
-                "X",
-                "H"
+                "H",
+                "X"
             ],
             "general_errors": 54,
             "replacements": {
@@ -1468,8 +1468,8 @@
                 ]
             },
             "sclass_errors": [
-                "X",
-                "H"
+                "H",
+                "X"
             ],
             "segments": {
                 "H": 15,
@@ -1520,9 +1520,9 @@
         },
         "OldChinese": {
             "bipa_errors": [
-                "\u02e4k",
                 "C",
-                "N"
+                "N",
+                "\u02e4k"
             ],
             "general_errors": 16,
             "replacements": {
@@ -1852,9 +1852,9 @@
                 ]
             },
             "sclass_errors": [
-                "\u02e4k",
                 "C",
-                "N"
+                "N",
+                "\u02e4k"
             ],
             "segments": {
                 "C": 11,
@@ -2629,511 +2629,511 @@
     "stats": {
         "bad_words": [
             [
-                "MiddleChinese-106_command-1",
+                "MiddleChinese-Zhang-2019-122-106_command-1",
                 "MiddleChinese",
-                "106_command",
+                "Zhang-2019-122-106_command",
                 "\u0263awH",
                 "\u0263 a w <s> H </s>"
             ],
             [
-                "MiddleChinese-108_excrement-1",
+                "MiddleChinese-Zhang-2019-122-108_excrement-1",
                 "MiddleChinese",
-                "108_excrement",
+                "Zhang-2019-122-108_excrement",
                 "\u0255ijX",
                 "\u0255 i j <s> X </s>"
             ],
             [
-                "MiddleChinese-109_milletorricegrains-1",
+                "MiddleChinese-Zhang-2019-122-109_milletorricegrains-1",
                 "MiddleChinese",
-                "109_milletorricegrains",
+                "Zhang-2019-122-109_milletorricegrains",
                 "mejX",
                 "m e j <s> X </s>"
             ],
             [
-                "MiddleChinese-10_rich-1",
+                "MiddleChinese-Zhang-2019-122-10_rich-1",
                 "MiddleChinese",
-                "10_rich",
+                "Zhang-2019-122-10_rich",
                 "pjuwH",
                 "p j u w <s> H </s>"
             ],
             [
-                "MiddleChinese-110_arrow-1",
+                "MiddleChinese-Zhang-2019-122-110_arrow-1",
                 "MiddleChinese",
-                "110_arrow",
+                "Zhang-2019-122-110_arrow",
                 "\u0255ijX",
                 "\u0255 i j <s> X </s>"
             ],
             [
-                "MiddleChinese-111_todie-1",
+                "MiddleChinese-Zhang-2019-122-111_todie-1",
                 "MiddleChinese",
-                "111_todie",
+                "Zhang-2019-122-111_todie",
                 "sijX",
                 "s i j <s> X </s>"
             ],
             [
-                "MiddleChinese-112_deceasedmother-1",
+                "MiddleChinese-Zhang-2019-122-112_deceasedmother-1",
                 "MiddleChinese",
-                "112_deceasedmother",
+                "Zhang-2019-122-112_deceasedmother",
                 "pjijX",
                 "p j i j <s> X </s>"
             ],
             [
-                "MiddleChinese-113_togive-1",
+                "MiddleChinese-Zhang-2019-122-113_togive-1",
                 "MiddleChinese",
-                "113_togive",
+                "Zhang-2019-122-113_togive",
                 "pjijH",
                 "p j i j <s> H </s>"
             ],
             [
-                "MiddleChinese-114_two-1",
+                "MiddleChinese-Zhang-2019-122-114_two-1",
                 "MiddleChinese",
-                "114_two",
+                "Zhang-2019-122-114_two",
                 "\u0272ijH",
                 "\u0272 i j <s> H </s>"
             ],
             [
-                "MiddleChinese-116_tail-1",
+                "MiddleChinese-Zhang-2019-122-116_tail-1",
                 "MiddleChinese",
-                "116_tail",
+                "Zhang-2019-122-116_tail",
                 "mj\u0268jX",
                 "m j \u0268 j <s> X </s>"
             ],
             [
-                "MiddleChinese-117_near-1",
+                "MiddleChinese-Zhang-2019-122-117_near-1",
                 "MiddleChinese",
-                "117_near",
+                "Zhang-2019-122-117_near",
                 "nyeX",
                 "n y e <s> X </s>"
             ],
             [
-                "MiddleChinese-118_fire-1",
+                "MiddleChinese-Zhang-2019-122-118_fire-1",
                 "MiddleChinese",
-                "118_fire",
+                "Zhang-2019-122-118_fire",
                 "xwaX",
                 "x w a <s> X </s>"
             ],
             [
-                "MiddleChinese-119_snakebrood-1",
+                "MiddleChinese-Zhang-2019-122-119_snakebrood-1",
                 "MiddleChinese",
-                "119_snakebrood",
+                "Zhang-2019-122-119_snakebrood",
                 "xwojX",
                 "x w o j <s> X </s>"
             ],
             [
-                "MiddleChinese-11_child-1",
+                "MiddleChinese-Zhang-2019-122-11_child-1",
                 "MiddleChinese",
-                "11_child",
+                "Zhang-2019-122-11_child",
                 "tsiX",
                 "ts i <s> X </s>"
             ],
             [
-                "MiddleChinese-121_horse-1",
+                "MiddleChinese-Zhang-2019-122-121_horse-1",
                 "MiddleChinese",
-                "121_horse",
+                "Zhang-2019-122-121_horse",
                 "m\u00e6X",
                 "m \u00e6 <s> X </s>"
             ],
             [
-                "MiddleChinese-122_rabbithare-1",
+                "MiddleChinese-Zhang-2019-122-122_rabbithare-1",
                 "MiddleChinese",
-                "122_rabbithare",
+                "Zhang-2019-122-122_rabbithare",
                 "thuH",
                 "t\u02b0 u <s> H </s>"
             ],
             [
-                "MiddleChinese-13_ear-1",
+                "MiddleChinese-Zhang-2019-122-13_ear-1",
                 "MiddleChinese",
-                "13_ear",
+                "Zhang-2019-122-13_ear",
                 "\u0272iX",
                 "\u0272 i <s> X </s>"
             ],
             [
-                "MiddleChinese-15_tosit-1",
+                "MiddleChinese-Zhang-2019-122-15_tosit-1",
                 "MiddleChinese",
-                "15_tosit",
+                "Zhang-2019-122-15_tosit",
                 "dzwaX",
                 "d z w a <s> X </s>"
             ],
             [
-                "MiddleChinese-16_milknipple-1",
+                "MiddleChinese-Zhang-2019-122-16_milknipple-1",
                 "MiddleChinese",
-                "16_milknipple",
+                "Zhang-2019-122-16_milknipple",
                 "\u0272uX",
                 "\u0272 u <s> X </s>"
             ],
             [
-                "MiddleChinese-17_sovereignqueen-1",
+                "MiddleChinese-Zhang-2019-122-17_sovereignqueen-1",
                 "MiddleChinese",
-                "17_sovereignqueen",
+                "Zhang-2019-122-17_sovereignqueen",
                 "\u0263uwX",
                 "\u0263 u w <s> X </s>"
             ],
             [
-                "MiddleChinese-18_after-1",
+                "MiddleChinese-Zhang-2019-122-18_after-1",
                 "MiddleChinese",
-                "18_after",
+                "Zhang-2019-122-18_after",
                 "\u0263uwX",
                 "\u0263 u w <s> X </s>"
             ],
             [
-                "MiddleChinese-19_internalorgans-1",
+                "MiddleChinese-Zhang-2019-122-19_internalorgans-1",
                 "MiddleChinese",
-                "19_internalorgans",
+                "Zhang-2019-122-19_internalorgans",
                 "pjuX",
                 "p j u <s> X </s>"
             ],
             [
-                "MiddleChinese-1_axe-1",
+                "MiddleChinese-Zhang-2019-122-1_axe-1",
                 "MiddleChinese",
-                "1_axe",
+                "Zhang-2019-122-1_axe",
                 "pjuX",
                 "p j u <s> X </s>"
             ],
             [
-                "MiddleChinese-21_vomit-1",
+                "MiddleChinese-Zhang-2019-122-21_vomit-1",
                 "MiddleChinese",
-                "21_vomit",
+                "Zhang-2019-122-21_vomit",
                 "\u0294uwX",
                 "\u0294 u w <s> X </s>"
             ],
             [
-                "MiddleChinese-22_totakecareofprotect-1",
+                "MiddleChinese-Zhang-2019-122-22_totakecareofprotect-1",
                 "MiddleChinese",
-                "22_totakecareofprotect",
+                "Zhang-2019-122-22_totakecareofprotect",
                 "pawX",
                 "p a w <s> X </s>"
             ],
             [
-                "MiddleChinese-24_hat-1",
+                "MiddleChinese-Zhang-2019-122-24_hat-1",
                 "MiddleChinese",
-                "24_hat",
+                "Zhang-2019-122-24_hat",
                 "mawH",
                 "m a w <s> H </s>"
             ],
             [
-                "MiddleChinese-25_brain-1",
+                "MiddleChinese-Zhang-2019-122-25_brain-1",
                 "MiddleChinese",
-                "25_brain",
+                "Zhang-2019-122-25_brain",
                 "nawX",
                 "n a w <s> X </s>"
             ],
             [
-                "MiddleChinese-26_elbow-1",
+                "MiddleChinese-Zhang-2019-122-26_elbow-1",
                 "MiddleChinese",
-                "26_elbow",
+                "Zhang-2019-122-26_elbow",
                 "\u0288juwX",
                 "\u0288 j u w <s> X </s>"
             ],
             [
-                "MiddleChinese-27_claw-1",
+                "MiddleChinese-Zhang-2019-122-27_claw-1",
                 "MiddleChinese",
-                "27_claw",
+                "Zhang-2019-122-27_claw",
                 "t\u0282\u00e6wX",
                 "\u0288\u0282 \u00e6 w <s> X </s>"
             ],
             [
-                "MiddleChinese-28_nine-1",
+                "MiddleChinese-Zhang-2019-122-28_nine-1",
                 "MiddleChinese",
-                "28_nine",
+                "Zhang-2019-122-28_nine",
                 "kjuwX",
                 "k j u w <s> X </s>"
             ],
             [
-                "MiddleChinese-29_mothersbrother-1",
+                "MiddleChinese-Zhang-2019-122-29_mothersbrother-1",
                 "MiddleChinese",
-                "29_mothersbrother",
+                "Zhang-2019-122-29_mothersbrother",
                 "gjuwX",
                 "g j u w <s> X </s>"
             ],
             [
-                "MiddleChinese-2_todescend-1",
+                "MiddleChinese-Zhang-2019-122-2_todescend-1",
                 "MiddleChinese",
-                "2_todescend",
+                "Zhang-2019-122-2_todescend",
                 "\u0263\u00e6H",
                 "\u0263 \u00e6 <s> H </s>"
             ],
             [
-                "MiddleChinese-30_father-1",
+                "MiddleChinese-Zhang-2019-122-30_father-1",
                 "MiddleChinese",
-                "30_father",
+                "Zhang-2019-122-30_father",
                 "pjuX",
                 "p j u <s> X </s>"
             ],
             [
-                "MiddleChinese-31_allium-1",
+                "MiddleChinese-Zhang-2019-122-31_allium-1",
                 "MiddleChinese",
-                "31_allium",
+                "Zhang-2019-122-31_allium",
                 "kjuwX",
                 "k j u w <s> X </s>"
             ],
             [
-                "MiddleChinese-56_twistspin-1",
+                "MiddleChinese-Zhang-2019-122-56_twistspin-1",
                 "MiddleChinese",
-                "56_twistspin",
+                "Zhang-2019-122-56_twistspin",
                 "phja\u014bX",
                 "p\u02b0 j a \u014b <s> X </s>"
             ],
             [
-                "MiddleChinese-58_eldestgreat-1",
+                "MiddleChinese-Zhang-2019-122-58_eldestgreat-1",
                 "MiddleChinese",
-                "58_eldestgreat",
+                "Zhang-2019-122-58_eldestgreat",
                 "m\u00e6\u014bH",
                 "m \u00e6 \u014b <s> H </s>"
             ],
             [
-                "MiddleChinese-58_eldestgreat-2",
+                "MiddleChinese-Zhang-2019-122-58_eldestgreat-2",
                 "MiddleChinese",
-                "58_eldestgreat",
+                "Zhang-2019-122-58_eldestgreat",
                 "m\u00e6\u014bH",
                 "m \u00e6 \u014b <s> H </s>"
             ],
             [
-                "MiddleChinese-59_toopposedisturb-1",
+                "MiddleChinese-Zhang-2019-122-59_toopposedisturb-1",
                 "MiddleChinese",
-                "59_toopposedisturb",
+                "Zhang-2019-122-59_toopposedisturb",
                 "\u0272a\u014bX",
                 "\u0272 a \u014b <s> X </s>"
             ],
             [
-                "MiddleChinese-5_tochew-1",
+                "MiddleChinese-Zhang-2019-122-5_tochew-1",
                 "MiddleChinese",
-                "5_tochew",
+                "Zhang-2019-122-5_tochew",
                 "dzjoX",
                 "d z j o <s> X </s>"
             ],
             [
-                "MiddleChinese-60_tothink-1",
+                "MiddleChinese-Zhang-2019-122-60_tothink-1",
                 "MiddleChinese",
-                "60_tothink",
+                "Zhang-2019-122-60_tothink",
                 "sja\u014bX",
                 "s j a \u014b <s> X </s>"
             ],
             [
-                "MiddleChinese-63_toitch-1",
+                "MiddleChinese-Zhang-2019-122-63_toitch-1",
                 "MiddleChinese",
-                "63_toitch",
+                "Zhang-2019-122-63_toitch",
                 "ja\u014bX",
                 "j a \u014b <s> X </s>"
             ],
             [
-                "MiddleChinese-69_your-1",
+                "MiddleChinese-Zhang-2019-122-69_your-1",
                 "MiddleChinese",
-                "69_your",
+                "Zhang-2019-122-69_your",
                 "nojX",
                 "n o j <s> X </s>"
             ],
             [
-                "MiddleChinese-6_five-1",
+                "MiddleChinese-Zhang-2019-122-6_five-1",
                 "MiddleChinese",
-                "6_five",
+                "Zhang-2019-122-6_five",
                 "\u014buX",
                 "\u014b u <s> X </s>"
             ],
             [
-                "MiddleChinese-75_strike-1",
+                "MiddleChinese-Zhang-2019-122-75_strike-1",
                 "MiddleChinese",
-                "75_strike",
+                "Zhang-2019-122-75_strike",
                 "\u0256\u00e6w\u014bH",
                 "\u0256 \u00e6 w \u014b <s> H </s>"
             ],
             [
-                "MiddleChinese-78_sufferdefeat-1",
+                "MiddleChinese-Zhang-2019-122-78_sufferdefeat-1",
                 "MiddleChinese",
-                "78_sufferdefeat",
+                "Zhang-2019-122-78_sufferdefeat",
                 "p\u00e6jH",
                 "p \u00e6 j <s> H </s>"
             ],
             [
-                "MiddleChinese-78_sufferdefeat-2",
+                "MiddleChinese-Zhang-2019-122-78_sufferdefeat-2",
                 "MiddleChinese",
-                "78_sufferdefeat",
+                "Zhang-2019-122-78_sufferdefeat",
                 "b\u00e6jH",
                 "b \u00e6 j <s> H </s>"
             ],
             [
-                "MiddleChinese-7_night-1",
+                "MiddleChinese-Zhang-2019-122-7_night-1",
                 "MiddleChinese",
-                "7_night",
+                "Zhang-2019-122-7_night",
                 "j\u00e6H",
                 "j \u00e6 <s> H </s>"
             ],
             [
-                "MiddleChinese-83_toslip-1",
+                "MiddleChinese-Zhang-2019-122-83_toslip-1",
                 "MiddleChinese",
-                "83_toslip",
+                "Zhang-2019-122-83_toslip",
                 "trijH",
                 "t r i j <s> H </s>"
             ],
             [
-                "MiddleChinese-87_stiff-1",
+                "MiddleChinese-Zhang-2019-122-87_stiff-1",
                 "MiddleChinese",
-                "87_stiff",
+                "Zhang-2019-122-87_stiff",
                 "pjijH",
                 "p j i j <s> H </s>"
             ],
             [
-                "MiddleChinese-91_late-1",
+                "MiddleChinese-Zhang-2019-122-91_late-1",
                 "MiddleChinese",
-                "91_late",
+                "Zhang-2019-122-91_late",
                 "mjonX",
                 "m j o n <s> X </s>"
             ],
             [
-                "MiddleChinese-92_earthworm-1",
+                "MiddleChinese-Zhang-2019-122-92_earthworm-1",
                 "MiddleChinese",
-                "92_earthworm",
+                "Zhang-2019-122-92_earthworm",
                 "jinX",
                 "j i n <s> X </s>"
             ],
             [
-                "MiddleChinese-97_jawchin-1",
+                "MiddleChinese-Zhang-2019-122-97_jawchin-1",
                 "MiddleChinese",
-                "97_jawchin",
+                "Zhang-2019-122-97_jawchin",
                 "\u0263omX",
                 "\u0263 o m <s> X </s>"
             ],
             [
-                "MiddleChinese-98_pillow-1",
+                "MiddleChinese-Zhang-2019-122-98_pillow-1",
                 "MiddleChinese",
-                "98_pillow",
+                "Zhang-2019-122-98_pillow",
                 "t\u0255imX",
                 "t\u0255 i m <s> X </s>"
             ],
             [
-                "MiddleChinese-9_thighbone-1",
+                "MiddleChinese-Zhang-2019-122-9_thighbone-1",
                 "MiddleChinese",
-                "9_thighbone",
+                "Zhang-2019-122-9_thighbone",
                 "bejX",
                 "b e j <s> X </s>"
             ],
             [
-                "OldChinese-103_bear-1",
+                "OldChinese-Zhang-2019-122-103_bear-1",
                 "OldChinese",
-                "103_bear",
+                "Zhang-2019-122-103_bear",
                 "C\u0262wr\u0259m",
                 "<s> C </s> \u0262 w r \u0259 m"
             ],
             [
-                "OldChinese-104_owl-1",
+                "OldChinese-Zhang-2019-122-104_owl-1",
                 "OldChinese",
-                "104_owl",
+                "Zhang-2019-122-104_owl",
                 "\u02e4kiw",
                 "<s> \u02e4k </s> i w"
             ],
             [
-                "OldChinese-13_ear-1",
+                "OldChinese-Zhang-2019-122-13_ear-1",
                 "OldChinese",
-                "13_ear",
+                "Zhang-2019-122-13_ear",
                 "Cn\u0259\u0294",
                 "<s> C </s> n \u0259 \u0294"
             ],
             [
-                "OldChinese-30_father-1",
+                "OldChinese-Zhang-2019-122-30_father-1",
                 "OldChinese",
-                "30_father",
+                "Zhang-2019-122-30_father",
                 "Npra\u0294",
                 "<s> N </s> p r a \u0294"
             ],
             [
-                "OldChinese-36_armpit-1",
+                "OldChinese-Zhang-2019-122-36_armpit-1",
                 "OldChinese",
-                "36_armpit",
+                "Zhang-2019-122-36_armpit",
                 "Cq\u02e4ak",
                 "<s> C </s> q\u02e4 a k"
             ],
             [
-                "OldChinese-47_bebentcurved-1",
+                "OldChinese-Zhang-2019-122-47_bebentcurved-1",
                 "OldChinese",
-                "47_bebentcurved",
+                "Zhang-2019-122-47_bebentcurved",
                 "Nk\u02b0rok",
                 "<s> N </s> k\u02b0 r o k"
             ],
             [
-                "OldChinese-50_horn-1",
+                "OldChinese-Zhang-2019-122-50_horn-1",
                 "OldChinese",
-                "50_horn",
+                "Zhang-2019-122-50_horn",
                 "Ck\u02e4rok",
                 "<s> C </s> k\u02e4 r o k"
             ],
             [
-                "OldChinese-54_eye-1",
+                "OldChinese-Zhang-2019-122-54_eye-1",
                 "OldChinese",
-                "54_eye",
+                "Zhang-2019-122-54_eye",
                 "Cmruk",
                 "<s> C </s> m r u k"
             ],
             [
-                "OldChinese-63_toitch-1",
+                "OldChinese-Zhang-2019-122-63_toitch-1",
                 "OldChinese",
-                "63_toitch",
+                "Zhang-2019-122-63_toitch",
                 "C\u0259\u0262a\u014b\u0294",
                 "<s> C </s> \u0259 \u0262 a \u014b \u0294"
             ],
             [
-                "OldChinese-64_name-1",
+                "OldChinese-Zhang-2019-122-64_name-1",
                 "OldChinese",
-                "64_name",
+                "Zhang-2019-122-64_name",
                 "Cme\u014b",
                 "<s> C </s> m e \u014b"
             ],
             [
-                "OldChinese-66_stringcord-1",
+                "OldChinese-Zhang-2019-122-66_stringcord-1",
                 "OldChinese",
-                "66_stringcord",
+                "Zhang-2019-122-66_stringcord",
                 "C\u0259mr\u0259\u014b",
                 "<s> C </s> \u0259 m r \u0259 \u014b"
             ],
             [
-                "OldChinese-68_dream-1",
+                "OldChinese-Zhang-2019-122-68_dream-1",
                 "OldChinese",
-                "68_dream",
+                "Zhang-2019-122-68_dream",
                 "Cm\u0259\u014bs",
                 "<s> C </s> m \u0259 \u014b s"
             ],
             [
-                "OldChinese-6_five-1",
+                "OldChinese-Zhang-2019-122-6_five-1",
                 "OldChinese",
-                "6_five",
+                "Zhang-2019-122-6_five",
                 "C\u014b\u02e4a\u0294",
                 "<s> C </s> \u014b\u02e4 a \u0294"
             ],
             [
-                "OldChinese-75_strike-1",
+                "OldChinese-Zhang-2019-122-75_strike-1",
                 "OldChinese",
-                "75_strike",
+                "Zhang-2019-122-75_strike",
                 "Nt\u02e4ro\u014bs",
                 "<s> N </s> t\u02e4 r o \u014b s"
             ],
             [
-                "OldChinese-78_sufferdefeat-2",
+                "OldChinese-Zhang-2019-122-78_sufferdefeat-2",
                 "OldChinese",
-                "78_sufferdefeat",
+                "Zhang-2019-122-78_sufferdefeat",
                 "Np\u02e4rats",
                 "<s> N </s> p\u02e4 r a ts"
             ],
             [
-                "OldChinese-88_face-1",
+                "OldChinese-Zhang-2019-122-88_face-1",
                 "OldChinese",
-                "88_face",
+                "Zhang-2019-122-88_face",
                 "C\u014b\u02e4ar",
                 "<s> C </s> \u014b\u02e4 a r"
             ],
             [
-                "Tibetan-63_toitch-1",
+                "Tibetan-Zhang-2019-122-63_toitch-1",
                 "Tibetan",
-                "63_toitch",
+                "Zhang-2019-122-63_toitch",
                 "g.ya'+ba",
                 "g j a <s> ' </s> + b a"
             ]
         ],
         "bad_words_count": 71,
         "bipa_errors": [
-            "'",
-            "H",
             "C",
+            "'",
             "X",
+            "N",
             "\u02e4k",
-            "N"
+            "H"
         ],
         "general_errors": 71,
         "invalid_words": [],
@@ -3466,12 +3466,12 @@
             ]
         },
         "sclass_errors": [
-            "'",
-            "H",
             "C",
+            "'",
             "X",
+            "N",
             "\u02e4k",
-            "N"
+            "H"
         ],
         "segments": {
             "'": 1,
