@@ -69,7 +69,7 @@
 | qʰ | 5 | ✓ | ✓ |
 | tsʰ | 5 | ✓ | ✓ |
 | ŋˤ | 5 | ✓ | ✓ |
-| N | 4 | ? | ? |
+| N/n | 4 | ✓ | ✓ |
 | mˤ | 4 | ✓ | ✓ |
 | x | 4 | ✓ | ✓ |
 | y | 4 | ✓ | ✓ |
@@ -136,13 +136,11 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:--------------------------------------------|:-----------|:-------------------------------|:---------|:-----------------------|
+|:------------------------------------------|:-----------|:-----------------------------|:---------|:-----------------------|
 | OldChinese-Zhang-2019-122-103_bear-1 | OldChinese | Zhang-2019-122-103_bear | Cɢwrəm | <s> C </s> ɢ w r ə m |
 | OldChinese-Zhang-2019-122-104_owl-1 | OldChinese | Zhang-2019-122-104_owl | ˤkiw | <s> ˤk </s> i w |
 | OldChinese-Zhang-2019-122-13_ear-1 | OldChinese | Zhang-2019-122-13_ear | Cnəʔ | <s> C </s> n ə ʔ |
-| OldChinese-Zhang-2019-122-30_father-1 | OldChinese | Zhang-2019-122-30_father | Npraʔ | <s> N </s> p r a ʔ |
 | OldChinese-Zhang-2019-122-36_armpit-1 | OldChinese | Zhang-2019-122-36_armpit | Cqˤak | <s> C </s> qˤ a k |
-| OldChinese-Zhang-2019-122-47_bebentcurved-1 | OldChinese | Zhang-2019-122-47_bebentcurved | Nkʰrok | <s> N </s> kʰ r o k |
 | OldChinese-Zhang-2019-122-50_horn-1 | OldChinese | Zhang-2019-122-50_horn | Ckˤrok | <s> C </s> kˤ r o k |
 | OldChinese-Zhang-2019-122-54_eye-1 | OldChinese | Zhang-2019-122-54_eye | Cmruk | <s> C </s> m r u k |
 | OldChinese-Zhang-2019-122-63_toitch-1 | OldChinese | Zhang-2019-122-63_toitch | Cəɢaŋʔ | <s> C </s> ə ɢ a ŋ ʔ |
@@ -150,11 +148,9 @@
 | OldChinese-Zhang-2019-122-66_stringcord-1 | OldChinese | Zhang-2019-122-66_stringcord | Cəmrəŋ | <s> C </s> ə m r ə ŋ |
 | OldChinese-Zhang-2019-122-68_dream-1 | OldChinese | Zhang-2019-122-68_dream | Cməŋs | <s> C </s> m ə ŋ s |
 | OldChinese-Zhang-2019-122-6_five-1 | OldChinese | Zhang-2019-122-6_five | Cŋˤaʔ | <s> C </s> ŋˤ a ʔ |
-| OldChinese-Zhang-2019-122-75_strike-1 | OldChinese | Zhang-2019-122-75_strike | Ntˤroŋs | <s> N </s> tˤ r o ŋ s |
-| OldChinese-Zhang-2019-122-78_sufferdefeat-2 | OldChinese | Zhang-2019-122-78_sufferdefeat | Npˤrats | <s> N </s> pˤ r a ts |
 | OldChinese-Zhang-2019-122-88_face-1 | OldChinese | Zhang-2019-122-88_face | Cŋˤar | <s> C </s> ŋˤ a r |
 | Tibetan-Zhang-2019-122-63_toitch-1 | Tibetan | Zhang-2019-122-63_toitch | g.ya'+ba | g j a <s> ' </s> + b a |
 
-(17 rows)
+(13 rows)
 
 

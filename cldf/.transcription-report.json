@@ -10,6 +10,9 @@
                 "H/\u2075\u00b9": [
                     "\u2075\u00b9"
                 ],
+                "N/n": [
+                    "n"
+                ],
                 "X/\u00b9\u2075": [
                     "\u00b9\u2075"
                 ],
@@ -398,6 +401,9 @@
                 "H/\u2075\u00b9": [
                     "\u2075\u00b9"
                 ],
+                "N/n": [
+                    "n"
+                ],
                 "X/\u00b9\u2075": [
                     "\u00b9\u2075"
                 ],
@@ -779,6 +785,9 @@
                 ],
                 "H/\u2075\u00b9": [
                     "\u2075\u00b9"
+                ],
+                "N/n": [
+                    "n"
                 ],
                 "X/\u00b9\u2075": [
                     "\u00b9\u2075"
@@ -1163,6 +1172,9 @@
                 "H/\u2075\u00b9": [
                     "\u2075\u00b9"
                 ],
+                "N/n": [
+                    "n"
+                ],
                 "X/\u00b9\u2075": [
                     "\u00b9\u2075"
                 ],
@@ -1539,16 +1551,18 @@
         "OldChinese": {
             "bipa_errors": [
                 "C",
-                "N",
                 "\u02e4k"
             ],
-            "general_errors": 16,
+            "general_errors": 12,
             "replacements": {
                 "+": [
                     "+"
                 ],
                 "H/\u2075\u00b9": [
                     "\u2075\u00b9"
+                ],
+                "N/n": [
+                    "n"
                 ],
                 "X/\u00b9\u2075": [
                     "\u00b9\u2075"
@@ -1877,12 +1891,11 @@
             },
             "sclass_errors": [
                 "C",
-                "N",
                 "\u02e4k"
             ],
             "segments": {
                 "C": 11,
-                "N": 4,
+                "N/n": 4,
                 "a": 31,
                 "b": 1,
                 "b\u02e4": 1,
@@ -1955,6 +1968,9 @@
                 ],
                 "H/\u2075\u00b9": [
                     "\u2075\u00b9"
+                ],
+                "N/n": [
+                    "n"
                 ],
                 "X/\u00b9\u2075": [
                     "\u00b9\u2075"
@@ -2328,6 +2344,9 @@
                 "H/\u2075\u00b9": [
                     "\u2075\u00b9"
                 ],
+                "N/n": [
+                    "n"
+                ],
                 "X/\u00b9\u2075": [
                     "\u00b9\u2075"
                 ],
@@ -2686,25 +2705,11 @@
                 "<s> C </s> n \u0259 \u0294"
             ],
             [
-                "OldChinese-Zhang-2019-122-30_father-1",
-                "OldChinese",
-                "Zhang-2019-122-30_father",
-                "Npra\u0294",
-                "<s> N </s> p r a \u0294"
-            ],
-            [
                 "OldChinese-Zhang-2019-122-36_armpit-1",
                 "OldChinese",
                 "Zhang-2019-122-36_armpit",
                 "Cq\u02e4ak",
                 "<s> C </s> q\u02e4 a k"
-            ],
-            [
-                "OldChinese-Zhang-2019-122-47_bebentcurved-1",
-                "OldChinese",
-                "Zhang-2019-122-47_bebentcurved",
-                "Nk\u02b0rok",
-                "<s> N </s> k\u02b0 r o k"
             ],
             [
                 "OldChinese-Zhang-2019-122-50_horn-1",
@@ -2756,20 +2761,6 @@
                 "<s> C </s> \u014b\u02e4 a \u0294"
             ],
             [
-                "OldChinese-Zhang-2019-122-75_strike-1",
-                "OldChinese",
-                "Zhang-2019-122-75_strike",
-                "Nt\u02e4ro\u014bs",
-                "<s> N </s> t\u02e4 r o \u014b s"
-            ],
-            [
-                "OldChinese-Zhang-2019-122-78_sufferdefeat-2",
-                "OldChinese",
-                "Zhang-2019-122-78_sufferdefeat",
-                "Np\u02e4rats",
-                "<s> N </s> p\u02e4 r a ts"
-            ],
-            [
                 "OldChinese-Zhang-2019-122-88_face-1",
                 "OldChinese",
                 "Zhang-2019-122-88_face",
@@ -2784,14 +2775,13 @@
                 "g j a <s> ' </s> + b a"
             ]
         ],
-        "bad_words_count": 17,
+        "bad_words_count": 13,
         "bipa_errors": [
-            "C",
             "'",
-            "N",
+            "C",
             "\u02e4k"
         ],
-        "general_errors": 17,
+        "general_errors": 13,
         "invalid_words": [],
         "invalid_words_count": 0,
         "inventory_size": 39.42857142857143,
@@ -2801,6 +2791,9 @@
             ],
             "H/\u2075\u00b9": [
                 "\u2075\u00b9"
+            ],
+            "N/n": [
+                "n"
             ],
             "X/\u00b9\u2075": [
                 "\u00b9\u2075"
@@ -3128,9 +3121,8 @@
             ]
         },
         "sclass_errors": [
-            "C",
             "'",
-            "N",
+            "C",
             "\u02e4k"
         ],
         "segments": {
@@ -3138,7 +3130,7 @@
             "+": 229,
             "C": 11,
             "H/\u2075\u00b9": 15,
-            "N": 4,
+            "N/n": 4,
             "X/\u00b9\u2075": 39,
             "a": 206,
             "b": 39,
