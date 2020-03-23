@@ -1520,8 +1520,8 @@
         },
         "OldChinese": {
             "bipa_errors": [
-                "C",
                 "N",
+                "C",
                 "\u02e4k"
             ],
             "general_errors": 16,
@@ -1852,8 +1852,8 @@
                 ]
             },
             "sclass_errors": [
-                "C",
                 "N",
+                "C",
                 "\u02e4k"
             ],
             "segments": {
@@ -3128,12 +3128,12 @@
         ],
         "bad_words_count": 71,
         "bipa_errors": [
+            "H",
             "C",
             "'",
-            "X",
-            "N",
             "\u02e4k",
-            "H"
+            "N",
+            "X"
         ],
         "general_errors": 71,
         "invalid_words": [],
@@ -3466,12 +3466,12 @@
             ]
         },
         "sclass_errors": [
+            "H",
             "C",
             "'",
-            "X",
-            "N",
             "\u02e4k",
-            "H"
+            "N",
+            "X"
         ],
         "segments": {
             "'": 1,

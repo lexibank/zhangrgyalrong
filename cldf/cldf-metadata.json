@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Zhang et al 2019",
+    "dc:bibliographicCitation": "Zhang, S., Guillaume, J., & Lai, Y. (2019). A study of cognates between Gyalrong and Old Chinese. Journal of Language Relationship, 17(1), 73-92. doi:10.17617/2.3149499.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3149499",
     "dc:isVersionOf": null,
@@ -15,19 +15,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/zhanggyalrong",
-            "dc:created": "e28e950"
+            "dc:created": "c00c279"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1-20-gea2ca69206"
+            "dc:created": "eWAVE-3.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.1a-91-gebe5d15"
+            "dc:created": "v2.3.0-11-g327397e"
         },
         {
             "rdf:type": "prov:Entity",

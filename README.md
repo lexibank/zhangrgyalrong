@@ -2,7 +2,7 @@
 
 Cite the source dataset as
 
-> Zhang et al 2019
+> Zhang, S., Guillaume, J., & Lai, Y. (2019). A study of cognates between Gyalrong and Old Chinese. Journal of Language Relationship, 17(1), 73-92. doi:10.17617/2.3149499.
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
