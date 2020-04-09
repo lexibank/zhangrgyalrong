@@ -331,6 +331,9 @@
                 "\u0294": [
                     "\u0294"
                 ],
+                "\u02e4k/k\u02e4": [
+                    "k\u02e4"
+                ],
                 "\u03b2": [
                     "\u03b2"
                 ],
@@ -722,6 +725,9 @@
                 "\u0294": [
                     "\u0294"
                 ],
+                "\u02e4k/k\u02e4": [
+                    "k\u02e4"
+                ],
                 "\u03b2": [
                     "\u03b2"
                 ],
@@ -1106,6 +1112,9 @@
                 ],
                 "\u0294": [
                     "\u0294"
+                ],
+                "\u02e4k/k\u02e4": [
+                    "k\u02e4"
                 ],
                 "\u03b2": [
                     "\u03b2"
@@ -1493,6 +1502,9 @@
                 "\u0294": [
                     "\u0294"
                 ],
+                "\u02e4k/k\u02e4": [
+                    "k\u02e4"
+                ],
                 "\u03b2": [
                     "\u03b2"
                 ],
@@ -1549,11 +1561,8 @@
             }
         },
         "OldChinese": {
-            "bipa_errors": [
-                "C",
-                "\u02e4k"
-            ],
-            "general_errors": 12,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -1882,6 +1891,9 @@
                 "\u0294": [
                     "\u0294"
                 ],
+                "\u02e4k/k\u02e4": [
+                    "k\u02e4"
+                ],
                 "\u03b2": [
                     "\u03b2"
                 ],
@@ -1889,12 +1901,8 @@
                     "\u03c7"
                 ]
             },
-            "sclass_errors": [
-                "C",
-                "\u02e4k"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "C": 11,
                 "N/n": 4,
                 "a": 31,
                 "b": 1,
@@ -1954,14 +1962,12 @@
                 "\u0262": 6,
                 "\u0262\u02e4": 3,
                 "\u0294": 39,
-                "\u02e4k": 1
+                "\u02e4k/k\u02e4": 1
             }
         },
         "Tibetan": {
-            "bipa_errors": [
-                "'"
-            ],
-            "general_errors": 1,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -2290,6 +2296,9 @@
                 "\u0294": [
                     "\u0294"
                 ],
+                "\u02e4k/k\u02e4": [
+                    "k\u02e4"
+                ],
                 "\u03b2": [
                     "\u03b2"
                 ],
@@ -2297,11 +2306,8 @@
                     "\u03c7"
                 ]
             },
-            "sclass_errors": [
-                "'"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "'": 1,
                 "+": 20,
                 "a": 38,
                 "b": 13,
@@ -2665,6 +2671,9 @@
                 "\u0294": [
                     "\u0294"
                 ],
+                "\u02e4k/k\u02e4": [
+                    "k\u02e4"
+                ],
                 "\u03b2": [
                     "\u03b2"
                 ],
@@ -2682,109 +2691,13 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "OldChinese-Zhang-2019-122-103_bear-1",
-                "OldChinese",
-                "Zhang-2019-122-103_bear",
-                "C\u0262wr\u0259m",
-                "<s> C </s> \u0262 w r \u0259 m"
-            ],
-            [
-                "OldChinese-Zhang-2019-122-104_owl-1",
-                "OldChinese",
-                "Zhang-2019-122-104_owl",
-                "\u02e4kiw",
-                "<s> \u02e4k </s> i w"
-            ],
-            [
-                "OldChinese-Zhang-2019-122-13_ear-1",
-                "OldChinese",
-                "Zhang-2019-122-13_ear",
-                "Cn\u0259\u0294",
-                "<s> C </s> n \u0259 \u0294"
-            ],
-            [
-                "OldChinese-Zhang-2019-122-36_armpit-1",
-                "OldChinese",
-                "Zhang-2019-122-36_armpit",
-                "Cq\u02e4ak",
-                "<s> C </s> q\u02e4 a k"
-            ],
-            [
-                "OldChinese-Zhang-2019-122-50_horn-1",
-                "OldChinese",
-                "Zhang-2019-122-50_horn",
-                "Ck\u02e4rok",
-                "<s> C </s> k\u02e4 r o k"
-            ],
-            [
-                "OldChinese-Zhang-2019-122-54_eye-1",
-                "OldChinese",
-                "Zhang-2019-122-54_eye",
-                "Cmruk",
-                "<s> C </s> m r u k"
-            ],
-            [
-                "OldChinese-Zhang-2019-122-63_toitch-1",
-                "OldChinese",
-                "Zhang-2019-122-63_toitch",
-                "C\u0259\u0262a\u014b\u0294",
-                "<s> C </s> \u0259 \u0262 a \u014b \u0294"
-            ],
-            [
-                "OldChinese-Zhang-2019-122-64_name-1",
-                "OldChinese",
-                "Zhang-2019-122-64_name",
-                "Cme\u014b",
-                "<s> C </s> m e \u014b"
-            ],
-            [
-                "OldChinese-Zhang-2019-122-66_stringcord-1",
-                "OldChinese",
-                "Zhang-2019-122-66_stringcord",
-                "C\u0259mr\u0259\u014b",
-                "<s> C </s> \u0259 m r \u0259 \u014b"
-            ],
-            [
-                "OldChinese-Zhang-2019-122-68_dream-1",
-                "OldChinese",
-                "Zhang-2019-122-68_dream",
-                "Cm\u0259\u014bs",
-                "<s> C </s> m \u0259 \u014b s"
-            ],
-            [
-                "OldChinese-Zhang-2019-122-6_five-1",
-                "OldChinese",
-                "Zhang-2019-122-6_five",
-                "C\u014b\u02e4a\u0294",
-                "<s> C </s> \u014b\u02e4 a \u0294"
-            ],
-            [
-                "OldChinese-Zhang-2019-122-88_face-1",
-                "OldChinese",
-                "Zhang-2019-122-88_face",
-                "C\u014b\u02e4ar",
-                "<s> C </s> \u014b\u02e4 a r"
-            ],
-            [
-                "Tibetan-Zhang-2019-122-63_toitch-1",
-                "Tibetan",
-                "Zhang-2019-122-63_toitch",
-                "g.ya'+ba",
-                "g j a <s> ' </s> + b a"
-            ]
-        ],
-        "bad_words_count": 13,
-        "bipa_errors": [
-            "'",
-            "C",
-            "\u02e4k"
-        ],
-        "general_errors": 13,
+        "bad_words": [],
+        "bad_words_count": 0,
+        "bipa_errors": [],
+        "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 39.42857142857143,
+        "inventory_size": 39.14285714285714,
         "replacements": {
             "+": [
                 "+"
@@ -3113,6 +3026,9 @@
             "\u0294": [
                 "\u0294"
             ],
+            "\u02e4k/k\u02e4": [
+                "k\u02e4"
+            ],
             "\u03b2": [
                 "\u03b2"
             ],
@@ -3120,15 +3036,9 @@
                 "\u03c7"
             ]
         },
-        "sclass_errors": [
-            "'",
-            "C",
-            "\u02e4k"
-        ],
+        "sclass_errors": [],
         "segments": {
-            "'": 1,
             "+": 229,
-            "C": 11,
             "H/\u2075\u00b9": 15,
             "N/n": 4,
             "X/\u00b9\u2075": 39,
@@ -3237,7 +3147,7 @@
             "\u0288\u0282": 4,
             "\u0291": 13,
             "\u0294": 42,
-            "\u02e4k": 1,
+            "\u02e4k/k\u02e4": 1,
             "\u03b2": 3,
             "\u03c7": 2
         }

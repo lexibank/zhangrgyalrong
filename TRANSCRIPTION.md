@@ -45,7 +45,6 @@
 | ū | 14 | ✓ | ✓ |
 | ɲ | 14 | ✓ | ✓ |
 | ʑ | 13 | ✓ | ✓ |
-| C | 11 | ? | ? |
 | ê | 10 | ✓ | ✓ |
 | ē | 10 | ✓ | ✓ |
 | ɐ | 10 | ✓ | ✓ |
@@ -92,7 +91,6 @@
 | tˤ | 2 | ✓ | ✓ |
 | ɑ | 2 | ✓ | ✓ |
 | χ | 2 | ✓ | ✓ |
-| ' | 1 | ? | ? |
 | bˤ | 1 | ✓ | ✓ |
 | dʑ | 1 | ✓ | ✓ |
 | dˤ | 1 | ✓ | ✓ |
@@ -118,16 +116,16 @@
 | ɱ | 1 | ✓ | ✓ |
 | ɴ | 1 | ✓ | ✓ |
 | ʈ | 1 | ✓ | ✓ |
-| ˤk | 1 | ? | ? |
+| ˤk/kˤ | 1 | ✓ | ✓ |
 
-(114 rows)
+(112 rows)
 
 
 
 ## Unsegmentable lexemes (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM |
-||
+|------|------------|-----------|--------|
 
 (0 rows)
 
@@ -136,21 +134,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:------------------------------------------|:-----------|:-----------------------------|:---------|:-----------------------|
-| OldChinese-Zhang-2019-122-103_bear-1 | OldChinese | Zhang-2019-122-103_bear | Cɢwrəm | <s> C </s> ɢ w r ə m |
-| OldChinese-Zhang-2019-122-104_owl-1 | OldChinese | Zhang-2019-122-104_owl | ˤkiw | <s> ˤk </s> i w |
-| OldChinese-Zhang-2019-122-13_ear-1 | OldChinese | Zhang-2019-122-13_ear | Cnəʔ | <s> C </s> n ə ʔ |
-| OldChinese-Zhang-2019-122-36_armpit-1 | OldChinese | Zhang-2019-122-36_armpit | Cqˤak | <s> C </s> qˤ a k |
-| OldChinese-Zhang-2019-122-50_horn-1 | OldChinese | Zhang-2019-122-50_horn | Ckˤrok | <s> C </s> kˤ r o k |
-| OldChinese-Zhang-2019-122-54_eye-1 | OldChinese | Zhang-2019-122-54_eye | Cmruk | <s> C </s> m r u k |
-| OldChinese-Zhang-2019-122-63_toitch-1 | OldChinese | Zhang-2019-122-63_toitch | Cəɢaŋʔ | <s> C </s> ə ɢ a ŋ ʔ |
-| OldChinese-Zhang-2019-122-64_name-1 | OldChinese | Zhang-2019-122-64_name | Cmeŋ | <s> C </s> m e ŋ |
-| OldChinese-Zhang-2019-122-66_stringcord-1 | OldChinese | Zhang-2019-122-66_stringcord | Cəmrəŋ | <s> C </s> ə m r ə ŋ |
-| OldChinese-Zhang-2019-122-68_dream-1 | OldChinese | Zhang-2019-122-68_dream | Cməŋs | <s> C </s> m ə ŋ s |
-| OldChinese-Zhang-2019-122-6_five-1 | OldChinese | Zhang-2019-122-6_five | Cŋˤaʔ | <s> C </s> ŋˤ a ʔ |
-| OldChinese-Zhang-2019-122-88_face-1 | OldChinese | Zhang-2019-122-88_face | Cŋˤar | <s> C </s> ŋˤ a r |
-| Tibetan-Zhang-2019-122-63_toitch-1 | Tibetan | Zhang-2019-122-63_toitch | g.ya'+ba | g j a <s> ' </s> + b a |
+|------|------------|-----------|--------|------------|
 
-(13 rows)
+(0 rows)
 
 

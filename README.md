@@ -14,8 +14,8 @@ Available online at https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?it
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 97%](https://img.shields.io/badge/BIPA-97%25-green.svg "BIPA: 97%")
-![CLTS SoundClass: 97%](https://img.shields.io/badge/CLTS%20SoundClass-97%25-green.svg "CLTS SoundClass: 97%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 7
 - **Concepts:** 120
@@ -25,6 +25,6 @@ Available online at https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?it
 - **Cognacy:** 603 cognates in 122 cognate sets (0 singletons)
 - **Cognate Diversity:** 0.00
 - **Invalid lexemes:** 0
-- **Tokens:** 2,879
-- **Segments:** 114 (3 BIPA errors, 3 CTLS sound class errors, 111 CLTS modified)
-- **Inventory size (avg):** 39.43
+- **Tokens:** 2,867
+- **Segments:** 112 (0 BIPA errors, 0 CTLS sound class errors, 112 CLTS modified)
+- **Inventory size (avg):** 39.14

@@ -1,4 +1,3 @@
-from collections import OrderedDict
 from pathlib import Path
 
 import attr
@@ -20,7 +19,7 @@ class CustomLanguage(Language):
 
 class Dataset(MyDataset):
     dir = Path(__file__).parent
-    id = "zhanggyalrong"
+    id = "zhangrgyalrong"
     concept_class = CustomConcept
     language_class = CustomLanguage
     form_spec = FormSpec(
@@ -47,25 +46,33 @@ class Dataset(MyDataset):
         languages_dict = {}
         for lan in self.languages:
             languages[lan['Name']] = {'Source' :lan['Source'], 'ID':lan['ID']}
+        
         # add concepts
-        concepts = args.writer.add_concepts(id_factory=lambda c: "%s_%s" % (c.id, slug(c.english)))
-        concepts_dict = {}
+        concepts = {}
         for concept in self.concepts:
-            idx = concept['ID']+'_'+slug(concept['ENGLISH'])
-            concepts_dict[concept['CHINESE'].strip()] = idx
+            idx = '{0}_{1}'.format(
+                    concept['NUMBER'],
+                    slug(concept['ENGLISH']))
 
-        for cogid_, entry in progressbar(
-                enumerate(data), desc="cldfify the data", total=len(data)
+            args.writer.add_concept(
+                    ID=idx,
+                    Name=concept['ENGLISH'],
+                    Chinese_Gloss=concept['CHINESE'],
+                    Gloss_in_Source=concept['GLOSS_IN_SOURCE']
+                    )
+            concepts[concept['CHINESE'].strip()] = idx
+
+        for cogid, entry in progressbar(
+                enumerate(data), desc="cldfify", total=len(data)
                 ):
-            cogid = cogid_ + 1
             for language, value in languages.items():
                 if entry[language].strip():
                     for row in args.writer.add_forms_from_value(
                         Language_ID=value['ID'],
-                        Parameter_ID=concepts_dict[entry["Chinese_character"]],
+                        Parameter_ID=concepts[entry["Chinese_character"]],
                         Value=entry[language],
                         Source=[value['Source']]
                         ):
                         args.writer.add_cognate(
                                 lexeme=row,
-                                Cognateset_ID=cogid)
+                                Cognateset_ID=cogid+1)

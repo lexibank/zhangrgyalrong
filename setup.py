@@ -7,17 +7,17 @@ with open('metadata.json') as fp:
 
 
 setup(
-    name='lexibank_zhanggyalrong',
+    name='lexibank_zhangrgyalrong',
     version="1.0",
     description=metadata['title'],
     license=metadata.get('license', ''),
     url=metadata.get('url', ''),
-    py_modules=['lexibank_zhanggyalrong'],
+    py_modules=['lexibank_zhangrgyalrong'],
     include_package_data=True,
     zip_safe=False,
     entry_points={
         'lexibank.dataset': [
-            'zhanggyalrong=lexibank_zhanggyalrong:Dataset',
+            'zhangrgyalrong=lexibank_zhangrgyalrong:Dataset',
         ]
     },
     install_requires=[

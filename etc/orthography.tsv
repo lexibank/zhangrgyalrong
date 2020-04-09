@@ -1,241 +1,251 @@
 Grapheme	IPA
-phy	pʰ j
-ph	pʰ
-th	tʰ
-kh	kʰ
-tsh	tsʰ
-sy	ɕ
-qh	qʰ
-ny	ɲ
-by	b j
-sh	ɕ
-ng	ŋ
-ya	j a
-zh	ʑ
-ky	c
-^	NULL
 $	NULL
+'o	o
+'ts	ts
 +	+
-a	a
-r	r
-ə	ə
-^t	t
-^k	k
-k$	k
-i	i
-j	j
-m	m
-u	u
-n	n
-^m	m
-o	o
-ɯ	ɯ
-^s	s
-ŋ	ŋ
-X$	X/¹⁵
-ʔ$	ʔ
-p	p
-w	w
-t$	t
-k	k
-^p	p
-a$	a
-ɤ	ɤ
-b	b
+.	
 0	0
-m$	m
-g	g
-e	e
-^n	n
-s	s
-o$	o
-ā	ā
-s$	s
-i$	i
-ŋ$	ŋ
-u$	u
-g$	g
-æ	æ
-r$	r
-H$	H/⁵¹
-n$	n
-ʁ$	ʁ
-d	d
-ō$	ō
-ū$	ū
-y	y
-l	l
-^r	r
-^d	d
-^g	g
-ō	ō
-ɯ$	ɯ
-â	â
-ô$	ô
-^ŋ	ŋ
-^kh	kʰ
-t	t
-^C	C
-z	z
-ɐ	ɐ
-p$	p
-ɣ$	ɣ
-^b	b
-e$	e
-ɐ̄	ɐ̄
-^ɕ	ɕ
-ê$	ê
-û$	û
-ɛ̂$	ɛ̂
-̂	
-â$	â
-w$	w
-ɣ	ɣ
-ɕ	ɕ
-ɟ	ɟ
-̄	
-ē$	ē
-^q	q
-^j	j
-^ɣ	ɣ
-ɲ	ɲ
-ə̄	ə̄
-^ɲ	ɲ
-^a	a
-î$	î
-^ph	pʰ
-tɕ	tɕ
-^ts	ts
-j$	j
-ʃ	ʃ
 <	
 >	
-ī$	ī
-ɐ̂	ɐ̂
-^ɢ	ɢ
-ē	ē
-^ʑ	ʑ
-^mˤ	mˤ
-ə̂	ə̂
-c	c
-^l	l
-ʑ	ʑ
-^pˤ	pˤ
-^tɕ	tɕ
-^N	N/n
-ts	ts
-ô	ô
-ā$	ā
-^ʃ	ʃ
-ɛ̄	ɛ̄
-q	q
-^m̥ˤ	m̥ˤ
-β$	β
-^xw	x w
-^sh	ɕ
-^th	tʰ
-^ʂ	ʂ
-^z	z
-^ɢˤ	ɢˤ
-^tsh	tsʰ
-ŋˤ	ŋˤ
-tʂ	ʈʂ
-ɛ	ɛ
-^tsˤ	tsˤ
-ʁ	ʁ
-^ɯ	ɯ
-pˤ	pˤ
-^ŋˤ	ŋˤ
-ts$	ts
-_	+
-ʔ	ʔ
-ī	ī
-gs$	g s
-v	v
-^l̥	l̥
-^nˤ	nˤ
-^qʰ	qʰ
-^kˤ	kˤ
-gs	g s
-rʑ	r ʑ
-tˤ	tˤ
-ɢ	ɢ
-tʃ	tʃ
-d$	d
-ə$	ə
-zw	z w
-^ʔ	ʔ
-ə̂$	ə̂
-^gs	g s
-^ʁ	ʁ
-z$	z
 A	ɑ
+H$	H/⁵¹
+X$	X/¹⁵
+^	NULL
+^*Ckˤrok	C/kˤrok	
+^*Cmeŋ	C/m e ŋ	
+^*Cmruk	C/m r u k	
+^*Cməŋs	C/m ə ŋ s	
+^*Cnəʔ	C/n ə ʔ
+^*Cqˤak	C/qˤ a k
+^*Cŋˤaʔ	C/ŋˤ a ʔ
+^*Cəmrəŋ	Cə/m r ə ŋ	
+^*Cəɢaŋʔ	Cə/ɢ a ŋ ʔ	
+^*Cɢwrəm	C/ɢ w r əm	
+^C	NULL
+^N	N/n
+^a	a
+^b	b
+^bs	b s
+^bˤ	bˤ
+^d	d
+^dˤ	dˤ
+^g	g
+^gs	g s
+^gʷ	gʷ
+^gˤ	gˤ
+^h	h
+^j	j
+^k	k
+^kh	kʰ
+^kw	kʷ
 ^kʰ	kʰ
 ^kʰˤ	kʰˤ
-^tsʰ	tsʰ
-^ɴ	ɴ
-^w	w
-^thw	tʰ w
-ɱ	ɱ
-'+	' +
-^zh	ʑ
-^n̥ˤ	n̥ˤ
-ɐ̂$	ɐ̂
-f	f
-ɛ̂	ɛ̂
-^tʂ	ʈʂ
-^n̥	n̥
-^bˤ	bˤ
-qˤ	qˤ
-^u	u
-^h	h
-^pʰ	pʰ
-^r̥	r̥
-ɛ̄$	ɛ̄
-'ts	ts
-^qh	qʰ
-^rw	r w
-ês$	ê s
-kʰ	kʰ
-û	û
-^bs	b s
-^qʷʰˤ	qʷʰˤ
-^sˤ	sˤ
-^ʈ	ʈ
-zˤ	zˤ
-b$	b
-́	
-dʑ	dʑ
-é	é
-^qˤ	qˤ
-χ	χ
-gˤ	gˤ
-^ˤk	ˤk
-tsʰ	tsʰ
-^gʷ	gʷ
-kˤ	kˤ
-^ŋʷ	ŋʷ
-^kw	kʷ
-^χs	χ s
-^x	x
-^v	v
-^l̥ˤ	l̥ˤ
-ɨ	ɨ
-'o	o
-dʐ	ɖʐ
-^ŋw	ŋ w
-ɢw	ɢ w
-^sw	s w
-l̥ˤ	l̥ˤ
 ^kʷˤ	kʷˤ
-tʰ	tʰ
+^kˤ	kˤ
+^l	l
 ^lˤ	lˤ
-^dˤ	dˤ
+^l̥	l̥
+^l̥ˤ	l̥ˤ
+^m	m
+^mˤ	mˤ
+^m̥ˤ	m̥ˤ
+^n	n
+^nˤ	nˤ
+^n̥	n̥
+^n̥ˤ	n̥ˤ
+^p	p
+^ph	pʰ
+^pʰ	pʰ
 ^pʰˤ	pʰˤ
-^gˤ	gˤ
-^ɣʑ	ɣ ʑ
+^pˤ	pˤ
+^q	q
+^qh	qʰ
+^qʰ	qʰ
+^qʷʰˤ	qʷʰˤ
+^qˤ	qˤ
+^r	r
+^rw	r w
+^r̥	r̥
+^s	s
+'+	+
+^sh	ɕ
+^sw	s w
+^sˤ	sˤ
+^t	t
+^th	tʰ
+^thw	tʰ w
+^ts	ts
+^tsh	tsʰ
+^tsʰ	tsʰ
+^tsˤ	tsˤ
+^tɕ	tɕ
+^tʂ	ʈʂ
+^u	u
+^v	v
+^w	w
+^x	x
+^xw	x w
+^z	z
+^zh	ʑ
+^ŋ	ŋ
+^ŋw	ŋ w
+^ŋʷ	ŋʷ
+^ŋˤ	ŋˤ
+^ɕ	ɕ
 ^ɖ	ɖ
-.	
+^ɢ	ɢ
+^ɢˤ	ɢˤ
+^ɣ	ɣ
+^ɣʑ	ɣ ʑ
+^ɯ	ɯ
+^ɲ	ɲ
+^ɴ	ɴ
+^ʁ	ʁ
+^ʂ	ʂ
+^ʃ	ʃ
+^ʈ	ʈ
+^ʑ	ʑ
+^ʔ	ʔ
+^ˤk	ˤk
+^χs	χ s
+_	+
+a	a
+a$	a
+b	b
+b$	b
+by	b j
+c	c
+d	d
+d$	d
+dʐ	ɖʐ
+dʑ	dʑ
+e	e
+e$	e
+f	f
+g	g
+g$	g
+gs	g s
+gs$	g s
+gˤ	gˤ
+i	i
+i$	i
+j	j
+j$	j
+k	k
+k$	k
+kh	kʰ
+ky	c
+kʰ	kʰ
+kˤ	kˤ
+l	l
+l̥ˤ	l̥ˤ
+m	m
+m$	m
+n	n
+n$	n
+ng	ŋ
+ny	ɲ
+o	o
+o$	o
+p	p
+p$	p
+ph	pʰ
+phy	pʰ j
+pˤ	pˤ
+q	q
+qh	qʰ
 qʰ	qʰ
+qˤ	qˤ
+r	r
+r$	r
+rʑ	r ʑ
+s	s
+s$	s
+sh	ɕ
+sy	ɕ
+t	t
+t$	t
+th	tʰ
+ts	ts
+ts$	ts
+tsh	tsʰ
+tsʰ	tsʰ
+tɕ	tɕ
+tʂ	ʈʂ
+tʃ	tʃ
+tʰ	tʰ
+tˤ	tˤ
+u	u
+u$	u
+v	v
+w	w
+w$	w
+y	y
+ya	j a
+z	z
+z$	z
+zh	ʑ
+zw	z w
+zˤ	zˤ
+â	â
+â$	â
+æ	æ
+é	é
+ê$	ê
+ês$	ê s
+î$	î
+ô	ô
+ô$	ô
+û	û
+û$	û
+ā	ā
+ā$	ā
+ē	ē
+ē$	ē
+ī	ī
+ī$	ī
+ŋ	ŋ
+ŋ$	ŋ
+ŋˤ	ŋˤ
+ō	ō
+ō$	ō
+ū$	ū
+ɐ	ɐ
+ɐ̂	ɐ̂
+ɐ̂$	ɐ̂
+ɐ̄	ɐ̄
+ɕ	ɕ
+ə	ə
+ə$	ə
+ə̂	ə̂
+ə̂$	ə̂
+ə̄	ə̄
+ɛ	ɛ
+ɛ̂	ɛ̂
+ɛ̂$	ɛ̂
+ɛ̄	ɛ̄
+ɛ̄$	ɛ̄
+ɟ	ɟ
+ɢ	ɢ
+ɢw	ɢ w
+ɣ	ɣ
+ɣ$	ɣ
+ɤ	ɤ
+ɨ	ɨ
+ɯ	ɯ
+ɯ$	ɯ
+ɱ	ɱ
+ɲ	ɲ
+ʁ	ʁ
+ʁ$	ʁ
+ʃ	ʃ
+ʑ	ʑ
+ʔ	ʔ
+ʔ$	ʔ
 ˤk	kˤ
-'	ˈ
+́	NULL
+̂	NULL
+̄	NULL
+β$	β
+χ	χ
+^ˤkiw	ˤk/kˤ i w
