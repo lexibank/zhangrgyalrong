@@ -1,8 +1,6 @@
 NUMBER	ENGLISH	GLOSS_IN_SOURCE	GLOSS	NOTE	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
-1	axe	axe	斧		677	AXE	
-#<<<							
-2	to descend	to descend	下		2014	GO DOWN (DESCEND)	2
-#>>>							
+1	axe	axe	斧		677	AXE								
+2	to descend	to descend	下		2014	GO DOWN (DESCEND)	2							
 3	to revive	to revive	蘇		1602	WAKE UP	
 4	I, my	I, my	吾		1209	I	
 5	to chew	to chew	咀	OC not in BS	321	CHEW	
@@ -13,13 +11,9 @@ NUMBER	ENGLISH	GLOSS_IN_SOURCE	GLOSS	NOTE	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMIL
 10	rich	rich	富	In Gyalrong, the word means 'pig'	712	RICH	2
 11	child	child	子	In Brag-bar and Japhug, the cognates mean 'father's sister's child.' In tibetan, it means 'grandchild, nephew'.	1620	SON	2
 12	fur garment	fur garment	裘	Cogtse/Brag-bar: garment, Japhug: to wear, Tibetan: clothes	1895	CLOTHES	
-13	ear	ear	耳		1247	EAR	2
-#<<<							
-14	ox	ox	牛	In Gyalrong, the cognate means 'cow'.	3044	BOVINE	2
-#>>>							
-#<<<							
-15	to sit	to sit	坐		1416	SIT	2
-#>>>							
+13	ear	ear	耳		1247	EAR	2							
+14	ox	ox	牛	In Gyalrong, the cognate means 'cow'.	3044	BOVINE	2						
+15	to sit	to sit	坐		1416	SIT	2						
 16	milk, nipple	milk, nipple	乳	The TB cognates mean 'udder'	1402	BREAST	
 17	sovereign, queen	sovereign, queen	后	The TB cognates mean 'head'	2093	AFTERWARDS	2
 18	after	after	後		2093	AFTERWARDS	
@@ -37,17 +31,13 @@ NUMBER	ENGLISH	GLOSS_IN_SOURCE	GLOSS	NOTE	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMIL
 30	father	father	父		1217	FATHER	2
 31	allium	allium	韭	Gyalrong cognates: onion. Tibetan cognate: wild onion.			
 32	hundred	hundred	百		1634	HUNDRED	2
-33	shoulder blade	shoulder blade	膊	TB cognates: shoulder	1482	SHOULDER	
-#<<<							
-34	thin	thin	薄		2249	THIN (OF SHAPE OF OBJECT)	2
-#>>>							
+33	shoulder blade	shoulder blade	膊	TB cognates: shoulder	1482	SHOULDER							
+34	thin	thin	薄		2249	THIN (OF SHAPE OF OBJECT)	2						
 35	there is no X such that X... 	there is no X such that X... 	莫	Gyalrong cognates: not be	1240	NOT	
 36	armpit	armpit	胳	Gyalrong cognates: arm	1673	ARM	
 37	armpit	armpit	腋		1886	ARMPIT	2
-38	single	single	隻	TB cognates: one	1493	ONE	
-#<<<							
-39	to drop, drop	to drop, drop	滴	Cogtse: drop (classifier); the Old Chinese reconstruction is not from B-S. 	808	DRIP (FALL IN GLOBULES)	2
-#>>>							
+38	single	single	隻	TB cognates: one	1493	ONE							
+39	to drop, drop	to drop, drop	滴	Cogtse: drop (classifier); the Old Chinese reconstruction is not from B-S. 	808	DRIP (FALL IN GLOBULES)	2							
 40	hide	hide	革	Gyalrong cognates: peel off	629	LEATHER	2
 41	evil	evil	慝	TB cognates: be black	163	BLACK	
 42	to weave	to weave	織		2905	KNIT	
@@ -67,14 +57,10 @@ NUMBER	ENGLISH	GLOSS_IN_SOURCE	GLOSS	NOTE	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMIL
 56	twist, spin	twist, spin	紡				
 57	eldest, great	eldest, great	孟	Tibetan and Cogtse: son-in-law, Japhu: husband			
 58	eldest, great	eldest, great	孟	Gyalrong cognates: be tall			
-59	to oppose, disturb	to oppose, disturb	攘	Gyalrong cognates: to chase			
-#<<<							
-60	to think	to think	想		2271	THINK	2
-#>>>							
-61	strong, hard	strong, hard	剛	TB cognates: be hard	1884	HARD	
-#<<<							
-62	sheep	sheep	羊		2684	CAPRINE (GOAT OR SHEEP)	2
-#>>>							
+59	to oppose, disturb	to oppose, disturb	攘	Gyalrong cognates: to chase										
+60	to think	to think	想		2271	THINK	2							
+61	strong, hard	strong, hard	剛	TB cognates: be hard	1884	HARD								
+62	sheep	sheep	羊		2684	CAPRINE (GOAT OR SHEEP)	2							
 63	to itch	to itch	癢		149	ITCHY	2
 64	name	name	名		1405	NAME	2
 65	cry (of birds or animals)	cry (of birds or animals)	鳴	Gyalrong cognates: be loud			
@@ -120,19 +106,13 @@ NUMBER	ENGLISH	GLOSS_IN_SOURCE	GLOSS	NOTE	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMIL
 105	to fry, roast	to fry, roast	熬		1100	COOK (SOMETHING)	2
 106	command	command	号	Gyalrong cognates: to shout			
 107	brown-and-white bear	brown-and-white bear	羆	Gyalrong cognates: Asiatic brown bear	1820	BEAR	
-108	excrement	excrement	屎		675	FAECES (EXCREMENT)	2
-#<<<							
-109	millet or rice grains	millet or rice grains	米	Japhug: cooked rice; Tibetan: millet	3289	UNCOOKED RICE	2
-#>>>							
-110	arrow	arrow	矢		977	ARROW	
-#<<<							
-111	to die	to die	死		1494	DIE	2
-#>>>							
+108	excrement	excrement	屎		675	FAECES (EXCREMENT)	2							
+109	millet or rice grains	millet or rice grains	米	Japhug: cooked rice; Tibetan: millet	3289	UNCOOKED RICE	2							
+110	arrow	arrow	矢		977	ARROW								
+111	to die	to die	死		1494	DIE	2							
 112	deceased mother	deceased mother	妣	TB cognates: grandmother			
-113	to give	to give	畀	Tibetan: to confer	1447	GIVE	
-#<<<							
-114	two	two	二		1498	TWO	2
-#>>>							
+113	to give	to give	畀	Tibetan: to confer	1447	GIVE								
+114	two	two	二		1498	TWO	2							
 115	eyebrow	eyebrow	眉	Gyalrong cognates: hair	1173	YEBROW	
 116	tail	tail	尾		1220	TAIL	2
 117	near	near	邇	Japhug: friend	1942	NEAR	
@@ -140,5 +120,4 @@ NUMBER	ENGLISH	GLOSS_IN_SOURCE	GLOSS	NOTE	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMIL
 119	snake brood	snake brood	虺				
 120	pulse, beans	pulse, beans	菽	Wanderwort, Gyalrong cognates: broad bean			
 121	horse	horse	馬	Wanderwort	615	HORSE	
-122	rabbit, hare	rabbit, hare	兔	Wanderwort	2345	LEPORID (RABBIT OR HARE)	2
-#	55/122	45%				
+122	rabbit, hare	rabbit, hare	兔	Wanderwort	2345	LEPORID (RABBIT OR HARE)	2			
