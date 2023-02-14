@@ -1,0 +1,20 @@
+{
+    "title": "A study of cognates between Gyalrong and Old Chinese",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Zhang, S., Guillaume, J., &amp; Lai, Y. (2019). A study of cognates between Gyalrong and Old Chinese. Journal of Language Relationship, 17(1), 73-92. doi:10.17617/2.3149499.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}

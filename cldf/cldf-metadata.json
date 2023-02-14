@@ -3,6 +3,9 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Zhang, S., Guillaume, J., & Lai, Y. (2019). A study of cognates between Gyalrong and Old Chinese. Journal of Language Relationship, 17(1), 73-92. doi:10.17617/2.3149499.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Zhang-2019-308"
+    ],
     "dc:identifier": "https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3149499",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
@@ -12,34 +15,38 @@
     "dcat:accessURL": "https://github.com/lexibank/zhanggyalrong",
     "prov:wasDerivedFrom": [
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/zhanggyalrong",
-            "dc:created": "bd2b2b5"
+            "rdf:type": "prov:Entity",
+            "dc:created": "1bc4934",
+            "dc:title": "Repository"
         },
         {
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/lingulist/glottolog-data",
-            "dc:created": "v4.0"
+            "dc:created": "v4.7",
+            "dc:title": "Glottolog"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-39-g43f0f34"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v3.0.0",
+            "dc:title": "Concepticon"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.2.0",
+            "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
         {
+            "dc:title": "lingpy-rcParams",
+            "dc:relation": "lingpy-rcParams.json"
+        },
+        {
             "dc:title": "python",
-            "dc:description": "3.8.2"
+            "dc:description": "3.9.16"
         },
         {
             "dc:title": "python-packages",
@@ -48,12 +55,10 @@
     ],
     "rdf:ID": "zhangrgyalrong",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
             "dc:extent": 603,
             "tableSchema": {
                 "columns": [
@@ -115,6 +120,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     }
                 ],
                 "foreignKeys": [
@@ -165,7 +178,7 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottolog_id}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
@@ -185,8 +198,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -195,8 +208,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
@@ -239,16 +252,12 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
-                        "valueUrl": "http://concepticon.clld.org/parameters/{concepticon_id}",
+                        "valueUrl": "http://concepticon.clld.org/parameters/{Concepticon_ID}",
                         "name": "Concepticon_ID"
                     },
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Chinese_Gloss"
                     },
                     {
                         "datatype": "string",

@@ -9,7 +9,6 @@ from pylexibank.util import progressbar
 
 @attr.s
 class CustomConcept(Concept):
-    Chinese_Gloss = attr.ib(default=None)
     Gloss_in_Source = attr.ib(default=None)
 
 @attr.s
@@ -44,23 +43,27 @@ class Dataset(MyDataset):
         # add languages
         languages = args.writer.add_languages(lookup_factory='Name')
         languages_dict = {}
-        for lan in self.languages:
-            languages[lan['Name']] = {'Source' :lan['Source'], 'ID':lan['ID']}
+        for language in self.languages:
+            languages[language['Name']] = {
+                    'Source': language['Source'],
+                    'ID': language['ID']
+                    }
         
         # add concepts
         concepts = {}
-        for concept in self.concepts:
+        for concept in self.conceptlists[0].concepts.values():
             idx = '{0}_{1}'.format(
-                    concept['NUMBER'],
-                    slug(concept['ENGLISH']))
-
+                    concept.number,
+                    slug(concept.gloss))
+            
             args.writer.add_concept(
                     ID=idx,
-                    Name=concept['ENGLISH'],
-                    Chinese_Gloss=concept['CHINESE'],
-                    Gloss_in_Source=concept['GLOSS_IN_SOURCE']
+                    Name=concept.gloss,
+                    Gloss_in_Source=concept.attributes["lexibank_gloss"]
                     )
-            concepts[concept['CHINESE'].strip()] = idx
+            for gloss in concept.attributes["lexibank_gloss"]:
+                concepts[gloss] = idx
+        args.log.info("added concepts")
 
         for cogid, entry in progressbar(
                 enumerate(data), desc="cldfify", total=len(data)
