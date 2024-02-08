@@ -1,5 +1,7 @@
 # A study of cognates between Gyalrong and Old Chinese
 
+[![CLDF validation](https://github.com/lexibank/zhangrgyalrong/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/zhangrgyalrong/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -20,8 +22,9 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/zhangrgyalrong/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/zhangrgyalrong/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-yellowgreen.svg "Concepticon: 90%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")

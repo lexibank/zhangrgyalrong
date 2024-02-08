@@ -59,7 +59,9 @@ class Dataset(MyDataset):
             args.writer.add_concept(
                     ID=idx,
                     Name=concept.gloss,
-                    Gloss_in_Source=concept.attributes["lexibank_gloss"]
+                    Gloss_in_Source=concept.attributes["lexibank_gloss"],
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss
                     )
             for gloss in concept.attributes["lexibank_gloss"]:
                 concepts[gloss] = idx
