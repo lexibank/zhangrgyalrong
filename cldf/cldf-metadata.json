@@ -12,30 +12,30 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "A study of cognates between Gyalrong and Old Chinese",
-    "dcat:accessURL": "https://github.com/lexibank/zhanggyalrong",
+    "dcat:accessURL": "https://github.com/lexibank/zhangrgyalrong",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/lexibank/zhanggyalrong",
+            "rdf:about": "https://github.com/lexibank/zhangrgyalrong",
             "rdf:type": "prov:Entity",
-            "dc:created": "1bc4934",
+            "dc:created": "4f00fb4",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.7",
+            "dc:created": "v4.8-61-ge27a9914d4",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0.0",
+            "dc:created": "v3.1.0-154-g141570c8",
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.2.0",
+            "dc:created": "v2.2.0-16-g4468d3b",
             "dc:title": "CLTS"
         }
     ],
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.16"
+            "dc:description": "3.11.6"
         },
         {
             "dc:title": "python-packages",
